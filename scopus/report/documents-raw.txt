@@ -10712,7 +10712,7 @@ DE external driving mechanisms; internal driving mechanisms; mega water
    collective action ( srca )
 ID economic and social effects; system theory; collective action; driving
    mechanism; external driving; external driving mechanism; internal driving
-   mechanism; mega water transfer  project; network governance theory; network
+   mechanism; mega water transfer project; network governance theory; network
    governances; socially responsible collective action; water transfer
    projects; sensitivity analysis
 
@@ -12845,11 +12845,11 @@ ID environmental pollution; indonesia; models theoretical; plastics; recycling;
    dynamics; plastic waste; policy analysis; recycling; scenario analysis;
    source apportionment; waste management; waste treatment; article; behavior;
    causal loop diagram; dynamics; environmental mitigation; environmental
-   protection; extended  producer  responsibility; freshwater environment;
-   indonesia; plastic  waste  submodel; plastic consumption submodel; plastic
+   protection; extended producer responsibility; freshwater environment;
+   indonesia; plastic waste submodel; plastic consumption submodel; plastic
    pricing mechanism policy; plastic recycling policy; plastic waste; policy;
-   policy scenario; price; recycling; recycling  industry  submodel;
-   responsibility; simulation; single use  plastic  bag   ban policy; stock and
+   policy scenario; price; recycling; recycling industry submodel;
+   responsibility; simulation; single use plastic bag ban policy; stock and
    flow diagram; system dynamics; validation process; waste management;
    economics; pollution; prevention and control; procedures; recycling; solid
    waste; theoretical model; waste disposal; waste management; plastic bottles
@@ -16709,8 +16709,8 @@ AB In the energy performance contracting (EPC) mode, an effective way to
    buildings by local governments and energy users thus promoting the energy-
    saving operation of green public buildings for final carbon reduction.  ©
    Published under licence by IOP Publishing Ltd.
-ID buildings; computer software; energy conservation; energy  savings; energy
-   performance; energy users; energy-savings; evolutionary games; game studies;
+ID buildings; computer software; energy conservation; energy savings; energy
+   performance; energy users; energy savings; evolutionary games; game studies;
    operation phasis; performance contracting; public buildings; system dynamics
    simulation; sensitivity analysis
 
@@ -18280,7 +18280,7 @@ DE energy efficiency; energy-saving technologies; renewable energies; smart
    building; system dynamics approach
 ID air conditioning; domestic appliances; energy utilization; intelligent
    buildings; lighting; meteorology; renewable energy; system theory; building
-   energy efficiency; efficiency models; energy; energy-savings technologies;
+   energy efficiency; efficiency models; energy; energy savings technologies;
    energy consumption; lighting technology; photovoltaic systems; renewable
    energies; service quality; system dynamics approach; energy efficiency
 

@@ -4,14 +4,12 @@
     ( 1994a )
 1994b
     ( 1994b )
-2d_qrc
-    in light of the two dimensional quality related cost ( 2d_qrc )
 2fasd
-     in a conceptual ssd environment referred to as the two_farm structural dynamics ( 2fasd )
+     in a conceptual ssd environment referred to as the two farm structural dynamics ( 2fasd )
 34spy
     and pyrite sulfur isotope ( 34spy )
-40_foot
-    the research has been conducted on a 12,2_metre ( 40_foot )
+40-foot
+    the research has been conducted on a 12,2-metre ( 40-foot )
 acbz
     airport-based comprehensive bonded zone
 ad
@@ -54,7 +52,7 @@ apt
     advanced persistent threat
     advanced persistent threats
 arcob
-    sults of a system dynamics model for dioxin flow and an air resource co_benefits ( arcob )
+    sults of a system dynamics model for dioxin flow and an air resource co benefits ( arcob )
 art
     atraumatic restorative treatment
 atfm
@@ -65,10 +63,7 @@ bappenas
     s predicted to increase , but based on badan perencanaan pembangunan nasional ( bappenas )
 bau
     business as usual
-    by 40 % compared to the business_as_usual ( bau )
-    istorical data , the simulation results are grouped into ' ' business as usual ' ' ( bau )
-    two scenarios were analyzed : business_as_usual ( bau )
-    under a business_as_usual ( bau )
+    on historical data , the simulation results are grouped into ' business as usual ' ( bau )
 bbri
     the trials conducted at bank bri ( bbri )
 bbsrc
@@ -78,7 +73,7 @@ bcf
 bcm
     business continuity management
 bcr
-    , and economic efficiency was measured using a benefit_cost ratio ( bcr )
+    benefit cost ratio
 besss
     battery energy storage systems
 bfe
@@ -108,11 +103,11 @@ breedable
 bsc
      and indicators in the hs within the framework of the balanced scorecard framework ( bsc )
     e methodological basis of this article is the presentation of a balanced scorecard ( bsc )
-    moreover , by examining the company ' s balanced scorecard ( bsc )
+    moreover , by examining the company s balanced scorecard ( bsc )
 buildoperatetransfer
-    financial data and the author ' s research of the case of the bot ( buildoperatetransfer )
+    s financial data and the author s research of the case of the bot ( buildoperatetransfer )
 bwb
-    between 2008 and 2010 , three blended_wing_body ( bwb )
+    blended wing body
 bwe
     to study the bullwhip effect ( bwe )
 bwm
@@ -124,16 +119,14 @@ capex
 car
     and bank capital ( car )
     capital adequacy ratio
-    t management program is able to produce a significant increase in bank ' s capital ( car )
+    ost management program is able to produce a significant increase in bank s capital ( car )
 cas
     complex adaptive system
     corrective actions
 cbs
-    ress this , we leveraged system dynamic methods and contextual_behavioural science ( cbs )
+    contextual behavioural science
 cc
     customer concentration
-cc_by
-    this open access article is distributed under a creative commons attribution ( cc_by )
 ccds
     coupling coordination degrees
 cdms
@@ -150,18 +143,17 @@ cdw
 ce
     circular economy
     clinical engineering
-    sisting of a number of subsystems and elements , which are linked by because_effect ( ce )
+    sisting of a number of subsystems and elements , which are linked by because effect ( ce )
 cea
-    ngle sd model was created to meet the requirements for cost_effectiveness analysis ( cea )
+    cost effectiveness analysis
 ceag
     the carbon emissions per unit of primary sector gdp ( ceag )
 centuries
-    duse patterns ' ' and because of ' ' the slow response of the climate system ( centuries )
+     landuse patterns ' and because of ' the slow response of the climate system ( centuries )
 cer
-    the findings of this study indicate that the cost_effectiveness ratio ( cer )
-    tion measures were tested in the model to determine their cost_effectiveness ratio ( cer )
+    cost effectiveness ratio
 ces
-    s that most large_scale transport models use a constant elasticity of substitution ( ces )
+    s that most large scale transport models use a constant elasticity of substitution ( ces )
 cet
     carbon emission trading
 cf
@@ -176,9 +168,6 @@ cgm
     community gold mining
 channelmax
     time when actual flooding begins ( channelmax )
-china
-    2019 , science press ( china )
-    2023 , science press ( china )
 chs
     community health services
 chss
@@ -188,11 +177,11 @@ chws
 ci
     corn industry
 cia
-    oach , expert opinions will be purposefully gathered through cross_impact analysis ( cia )
+    cross impact analysis
 cip
     collaborative innovation performance
 cips
-    rnational environment and the operation of the cross_border rmb settlement system ( cips )
+    rnational environment and the operation of the cross border rmb settlement system ( cips )
 cld
     casual loop diagram
     causal loop diagram
@@ -204,13 +193,8 @@ clds
 clm
     causal loop modeling
 clsc
-     vehicles in china , the paper , from the perspective of closed_loop supply chain ( clsc )
+    closed loop supply chain
     closed-loop supply chains
-    e environmental challenges and sustainable development , closed_loop supply chain ( clsc )
-    n demand and the product differentiation , a multifactor closed_loop supply chain ( clsc )
-    simulating of closed_loop supply chain ( clsc )
-    we establish the model of multilevel closed_loop supply chain ( clsc )
-    y has become the main reason for the inefficiency of the closed_loop supply chain ( clsc )
 clv
     customer lifetime value
 cmip5
@@ -232,10 +216,8 @@ cora
 cost
     , c ( cost )
     e main innovation point of the proposed work is the presence of an unknown factor ( cost )
-covid_19
-    e appropriate resilience for the next pandemic after coronavirus disease 2019 ( covid_19 )
 cpfr
-    em behavior patterns of the co_operation planning , forecasting and replenishment ( cpfr )
+    em behavior patterns of the co operation planning , forecasting and replenishment ( cpfr )
 cpo
     crude palm oil
 cptbu
@@ -247,16 +229,12 @@ cs
 csn
     children with special needs ( csn )
     the increase in individual facilities and programs for children with special needs ( csn )
-csp_sdm
-    s study proposes a coordinated scenario planning with system dynamics modeling ( csp_sdm )
 csr
     corporate social responsibilities
 cv
     cyberbullying victims
 cvd
     , can improve hypertension control and reduce cardiovascular disease ( cvd )
-cw_r_f_s
-    ounding rock system which is composed of ' ' coal wall_roof_floor_support ' ' ( cw_r_f_s )
 cwm
     construction waste management
     construction waste minimization
@@ -273,7 +251,7 @@ ddpes
 demand
     d global character of gttmdyn forms a challenging combination to the behavioral ( demand )
 dematel
-    ping a questionnaire using the decision_making trial and evaluation laboratory ( dematel )
+    ping a questionnaire using the decision making trial and evaluation laboratory ( dematel )
     this study integrates the decision making trial and evaluation laboratory ( dematel )
 des
     discrete event simulation
@@ -286,29 +264,27 @@ discretisation
 diy
     the region of yogyakarta ( diy )
 dmft
-    children ' s decayed , missing , filled teeth ( dmft )
+    children s decayed , missing , filled teeth ( dmft )
 dmi
     dry matter intake
 dms
-    , and risk preference of decision_makers ( dms )
+    decision makers
 do
     dissolved oxygen
 doe
     design of experiment
     design of experiments
 dprsr
-    driving_force pressure resistance state response
-driver_pressure_state_impact_response
-     factors influencing the hqed based on the dpsir ( driver_pressure_state_impact_response )
+    the driving force pressure resistance state response ( dprsr )
 drmsr
     distribution root mean square ratio
 ds
     dynamic systems
 dsm
-    nd profile under different technological configurations and demand_side management ( dsm )
+    demand side management
 dsr
     driving force-state-response
-    the concepts and theory of system analysis , driving force_state_response ( dsr )
+    the concepts and theory of system analysis , driving force state response ( dsr )
 dss
     decision support system
     decision support systems
@@ -321,19 +297,14 @@ dt
     digital twins
     dynamic time-varying
 dts
-    , filtering and temporary storage in drunk_tanks ( dts )
     digital twins
+    drunk tanks
 dvvt
     dual variable valve timing
-e_waste
-    despite the fact that 95 % of the electronic waste ( e_waste )
-    floods generate enormous amounts of waste , including electronic waste ( e_waste )
 ea
-    the highest impact is seen for energy_related credits ( ea )
+    the highest impact is seen for energy related credits ( ea )
 ebov
     rviews are used to model the supply and demand of a prototypical ebolavirus zaire ( ebov )
-ec_earth
-    including the european consortium earth system model ( ec_earth )
 eca
     engineering change administration
     engineering change analysis
@@ -351,18 +322,16 @@ ef
     environmental flow
 egypt
     a consultancy study in the destination of sharm el sheik ( egypt )
-ems_mcis
-    objectives : emergency medical system for mass casualty incidents ( ems_mcis )
 en
     , and the sustainability of environmental development ( en )
 enipas
     expanded national integrated protected area systems
 enre
-    coordinating the economyn_resourceenvironment ( enre )
+    coordinating the economyn resourceenvironment ( enre )
 environment
     , and e ( environment )
 eol
-     to measure how recoverable the product is , regardless of the cost or end_of_life ( eol )
+    end of life
 eoq
     economic order quality
 ep
@@ -372,11 +341,11 @@ epc
 epos
     electronic point of sales
 epps
-    health emergencies caused by epidemic_prone pathogens ( epps )
+    epidemic prone pathogens
 epr
     extended producer responsibility
 eps
-    to study how the electric_power substitution ( eps )
+    electric power substitution
 er
     electrification ratio
 eroi
@@ -386,15 +355,13 @@ erp
 erw
     enhanced rock weathering
 escos
-    ucts an evolutionary game model between energy users and energy_saving companies ( escos )
+    ucts an evolutionary game model between energy users and energy saving companies ( escos )
 esgm
     surface and groundwater model
 et
     precipitation and evapotranspiration ( et )
 etmm
     entrusted transportation management mode
-eu_ets
-    nd 50 % of extra_european voyages in the european union emission trading system ( eu_ets )
 ev
     electric vehicles
 evd
@@ -430,13 +397,11 @@ floodplainmax
 fmea
     mode and effect analysis
 fmipcc
-    r , in the stochastic modeling , the fully mobile in_pit crushing and conveying ( fmipcc )
+    mobile in pit crushing and conveying
 fmmlmh
     fully mechanized mining with large mining height ( fmmlmh )
-fs_ssc
-    ain production parameters at the field station_school for smallholder community ( fs_ssc )
 fss
-    female sex_selected semen
+    system involves insemination of nulliparous heifers with female sex selected semen ( fss )
 fta
     fault tree analysis
 ftz
@@ -446,11 +411,11 @@ ftzs
 fuca
     faire un choix adequate
 fwpvs
-    oped to estimate the forecasted fuel economy for four_wheeled passenger vehicles ( fwpvs )
+    four wheeled passenger vehicles
 ga
     genetic algorithm
 gbe
-    green building eco_environment
+    impact of green building development policies , a ' green building eco environment ( gbe )
 gc
     green concrete
 gce
@@ -471,7 +436,7 @@ gemba
 ghg
     ation of new technologies , this would be accompanied by reduced greenhouse gasses ( ghg )
     in this study , six waste management scenarios and their greenhouse gas ( ghg )
-    o_energy conversion scenarios in terms of their potential to reduce greenhouse gas ( ghg )
+    o energy conversion scenarios in terms of their potential to reduce greenhouse gas ( ghg )
 ghgs
     ities play a meaningful role in decoupling economic growth from greenhouse gasses ( ghgs )
 gif
@@ -504,8 +469,6 @@ gwp
     global warming potential
 hadgem2
     , hadley center global environment model version 2 ( hadgem2 )
-harbin
-    2023 , department of journal of forest engineering ( harbin )
 hc
     , hydrocarbons ( hc )
 hci
@@ -515,8 +478,7 @@ hcv
 hcw
     hot carcass weight
 hd
-    it presents a computer simulation model of the hard_disk ( hd )
-    it presents a simulation model of the hard_disk ( hd )
+    hard disk
 hdi
     human development index
 hep
@@ -526,12 +488,11 @@ hk
 hok
     as a continuous improvement program is the independent variable and hoshin kanri ( hok )
 homimd
-    poses a holistic , multi_paradigmatic , integrated modeling and decision making ( homimd )
+    poses a holistic , multi paradigmatic , integrated modeling and decision making ( homimd )
 hpc
-    currently , available flood modeling approaches require high_performance computing ( hpc )
     high performance computing
 hqed
-    the key to promoting high_quality economic development ( hqed )
+    high quality economic development
 hra
     human reliability analysis
 hs
@@ -540,22 +501,12 @@ hsr
     t of covid19 , primarily based on the data from the beijingshanghai highspeed rail ( hsr )
 hsrpt
     lly determines the sustainable development of highspeed rail passenger transport ( hsrpt )
-http://creativecommons.org/licenses/by/4.0/
-    e creative commons attribution license 4.0 ( http://creativecommons.org/licenses/by/4.0/ )
-https://creativecommons.org/licenses/by/4.0/
-    license ( https://creativecommons.org/licenses/by/4.0/ )
-https://creativecommons.org/licenses/by_nc/4.0/
-    ons attribution non_commercial license ( https://creativecommons.org/licenses/by_nc/4.0/ )
 hud
     and urban development
 hydrus
      were also compared with a finite element model of saturated / unsaturated flow ( hydrus )
-iaf
-    international astronautical federation
 iam
     integrated assessment model
-ibima
-    international business information management association
 ibs
     intelligent boom sprayer
 icid
@@ -582,7 +533,7 @@ imp
 inphyimp
     , complexity index , and incorrect physical implementation ( inphyimp )
 interdependent
-    r cycle components consists of complex , non_linear , and bidirectional ( interdependent )
+    r cycle components consists of complex , non linear , and bidirectional ( interdependent )
 iois
     inter-organizational information system
 iot
@@ -627,7 +578,7 @@ iwrm
 j0
     in the basic experiment , where the initial permeate flux ( j0 )
 jit
-    , just_in_time ( jit )
+    just in time
 jmi
     jointly managed inventory
 js
@@ -645,7 +596,7 @@ ken
 kg
     physical productivity is a comparison between the quantity of yield produced ( kg )
 kibs
-    s modeling of the organizational inertia of knowledge_intensive business services ( kibs )
+    knowledge intensive business services
 kifs
     key influence factors
 km
@@ -661,31 +612,28 @@ kpi
     key performance indicators
 kw
     and the quantity of the direct energy input ( kw )
-lars_wg
-     impacts were analyzed with the long ashton research station weather generator ( lars_wg )
 lbpv
-    , load_bearing capacity per vehicle ( lbpv )
+    , load bearing capacity per vehicle ( lbpv )
 lca
     life cycle assessment
 lcc
     life cycle cost
-    the total life_cycle cost ( lcc )
 lcos
     limiting conditions for operations ( lcos )
 leed
      number of points awarded under the leadership in energy and environmental design ( leed )
-    guidelines of the ' leadership in energy and environmental design ' ( leed )
+    guidelines of the leadership in energy and environmental design ( leed )
 lgas
     livestock guard animals
 lih
+    low income housing
     low-income housing
-    low_income housing ( lih )
 liibderps
     tion interoperability between different enterprise resource planning systems ( liibderps )
 liihep
     , logistics information inconsistency due to human errors probability ( liihep )
 lindane
-    in the present study the fate of _hexachlorocyclohexane ( lindane )
+    in the present study the fate of -hexachlorocyclohexane ( lindane )
 lm
     lean manufacturing
 lmdi
@@ -702,8 +650,7 @@ lulc
     land use and land cover
     use and land cover
 lv
-    in view of the monotony of feedback loop mechanism in sd model , lotka_volterra ( lv )
-    the lotka_volterra ( lv )
+    lotka volterra
 mape
     mean absolute percentage error
     rio development , and validity testing by measuring the absolute percentage error ( mape )
@@ -714,7 +661,7 @@ maxent
 mbd
     model boundary diagrams
 mcdm
-    multicriteria decision_making ( mcdm )
+    multicriteria decision making ( mcdm )
 mci
     mass casualty incident
 mcm
@@ -741,23 +688,15 @@ mm
     mediated modeling
     mexican maquiladora
 mmesd
-    since sd concepts are ill_defined , a meta model for enterprise systems dynamics ( mmesd )
+    since sd concepts are ill defined , a meta model for enterprise systems dynamics ( mmesd )
 mmse
-    five simulations were set up , each mini_mental state examination ( mmse )
-model_i
-    udy concluded that cost of milk procurement was the least in collection center ( model_i )
-model_ii
-    the integrated production and processing system ( model_ii )
+    mini mental state examination
 modflow
     we scale the distributed parameter model ( modflow )
-modflow_uzf
-    _hydrological model that integrates a process_based groundwater flow model ( modflow_uzf )
 mol
     minimum operating level
 mop
     model , multiobjective programming ( mop )
-mpi_esm
-    , and max planck institute earth system model ( mpi_esm )
 mq
     mold quality
 mr
@@ -813,7 +752,7 @@ npcd
 npd
     new product development
 npl
-    cy simulation to mitigate credit and capital risks in terms of non_performing loan ( npl )
+    non performing loan
     rsim studio 10 software that is able to make scenarios on the level of credit risk ( npl )
 npps
     nuclear power plants
@@ -822,9 +761,9 @@ npv
 nrb
     niger river basin
 nrbtdss
-    a natural resource_based tourism decision support system ( nrbtdss )
+    natural resource based tourism decision support system
 nse
-    , and nash_sutcliffe efficiency ( nse )
+    nash sutcliffe efficiency
 nsps
     national security personnel system
 nt
@@ -833,7 +772,7 @@ nt
 ntu
     nanyang technological university
 nvivo
-    ing a qualitative_inductive approach , employing the stirling and darling method ( nvivo )
+    ing a qualitative inductive approach , employing the stirling and darling method ( nvivo )
 nwl
     normal water level
 nz
@@ -853,21 +792,17 @@ oics
 ome
     open modeling environment
 oo
-    based on a systems thinking philosophy , the paper aims to adopt an object_oriented ( oo )
+    object oriented
 ooda
-    cy rescue linkage mechanism was studied by applying the observe_orient_decide_act ( ooda )
-    ocess was adopted as an entry point , based on the observe_orient_decision_action ( ooda )
+    observe orient decide act
+    observe orient decision action
 opex
     and operational expenditures ( opex ) . )
     ntial the utilities are anxious to keep the level of the operational expenditures ( opex )
 opoe
     paper explores the dissemination laws of online public opinion during emergencies ( opoe )
-p_bfp
-    was optimized to construct a preferable brownfield process ( p_bfp )
-p_s_r
-    tion indicator system of liaohe river watershed based on pressure_state_response ( p_s_r )
 paf
-    , the prevention_appraisal_failure ( paf )
+    prevention appraisal failure
 parsim
     the pilot production , absorption , retention simulation ( parsim )
 parts
@@ -877,12 +812,12 @@ pb
     lead ( pb )
     prefabricated buildings
 pbd
-    and the traditional product development strategy of point_based design ( pbd )
+    point based design
 pbip
     incentive policies for prefabricated buildings ( pbip )
 pbos
+    project based organizations
     project-based organizations
-    ugh knowledge transfer in the context of projects and project_based organizations ( pbos )
 pbrs
     project scenarios on the impact of harvesting plantbioresources ( pbrs )
 pc
@@ -895,7 +830,7 @@ pcps
 pdmp
     piecewise deterministic markov process
 pebs
-    plus_energy buildings ( pebs )
+    plus energy buildings
 peru
     based on modeling the hospital logistics capacity in the pasco healthcare network ( peru )
 php
@@ -922,9 +857,9 @@ powersim
 poy
     , and poka yoke ( poy )
 ppp
-    g studies analyze the early decision_making processes of publicprivate partnership ( ppp )
+    g studies analyze the early decision making processes of publicprivate partnership ( ppp )
+    public private partnership
     public-private partnership
-    this paper aims to study on investment return system of public_private partnership ( ppp )
 ppr
     mass vaccination against peste des petits ruminants ( ppr )
     ool for the global control and eradication strategy for peste des petits ruminants ( ppr )
@@ -939,28 +874,24 @@ pso
 psp
     project sustainable performance
 psr
-    the ' ' pressure_state_response ' ' ( psr )
-ptie
-    polskie towarzystwo inzynierii ekologicznej
+    the ' pressure state response ' ( psr )
 pttmam
     powertrain technology transition market agent model
 pull
-    and demand_responding activities ( pull )
+    and demand responding activities ( pull )
 push
-    a decoupling point is a boundary where inventory_holding activities ( push )
+    a decoupling point is a boundary where inventory holding activities ( push )
 pv
     d appropriate installation angles to ensure optimal performance of the photovoltaic ( pv )
     solar photovoltaic ( pv )
     there is considerable potential for solar energy , the uptake of solar photovoltaic ( pv )
     uted energy resources in the residential sector , including photovoltaic generation ( pv )
-q_system
-    gorithm to dynamically setting the components of the continuous review system ( q_system )
 qcc
     quality coordination cost
 qol
     quality of life
 qtp
-    re system of a typical agricultural and pastoral area on the qinghai_tibet plateau ( qtp )
+    qinghai tibet plateau
 quality
     , q ( quality )
 r/1000@3mis
@@ -977,7 +908,7 @@ rbd
     randomized block design
 rc
     furthermore , the cake layer resistance ( rc )
-    nsim , for instance , has a model calibration tool referred to as ' reality check ' ( rc )
+    reality check
 rdi
     specifically , the research considers the responsive drip irrigation system ( rdi )
 re
@@ -988,7 +919,7 @@ re
 rees
     rare earth elements
 regair
-    within this model , the here_introduced regional air pollution sub_model ( regair )
+    within this model , the here introduced regional air pollution sub model ( regair )
 rescom
     resource conservative manufacturing ( rescom )
 rh
@@ -996,9 +927,7 @@ rh
 rms
     reconfigurable manufacturing system
 rmse
-    ancial results , for the benefitcost ratio , the values of root_mean_square error ( rmse )
     root mean square error
-    the performance of the river ice model was evaluated using root_mean_square error ( rmse )
 rnpg
     the reserva nacional pampa galeras barbara d'achille ( rnpg )
 roi
@@ -1008,7 +937,7 @@ rokaf
 rps
     renewable portfolio standard
 rsb
-    , and raised_bed irrigation method ( rsb )
+    , and raised bed irrigation method ( rsb )
 rsc
     reverse supply chain
 rss
@@ -1020,21 +949,21 @@ rt
 rti
     regional technology innovation
 rtw
-    background return_to_work ( rtw )
+    return to work
 rucdw
-    ors ' participation in resource utilization of construction and demolition waste ( rucdw )
+    ctors participation in resource utilization of construction and demolition waste ( rucdw )
 rys
     and networks and simulation ( rys )
 s.d.
     scular patient by making use of intended mathematical modeling in system dynamics ( s.d. )
 s1
-    the model explored four policy scenarios : business_as_usual scenario ( s1 )
+    the model explored four policy scenarios : business as usual scenario ( s1 )
     this sd model provided the baseline model ( s1 )
 s2
     , ideal agricultural development ( s2 )
-s2_5
-    for malaysia and four_distinctive_scenarios ( s2_5 )
-    nformed by career expectations of emerging graduates drawing on earlier scenarios ( s2_5 )
+s2-5
+    for malaysia and four distinctive scenarios ( s2-5 )
+    nformed by career expectations of emerging graduates drawing on earlier scenarios ( s2-5 )
 s3
     , strengthening agricultural investment ( s3 )
 s4
@@ -1052,7 +981,7 @@ sat
 sbc
     sequential biological concentration
 sbd
-    approach to model the lean product development strategy of set_based design ( sbd )
+    set based design
 sc
     supplier concentration
     supply chain
@@ -1088,12 +1017,6 @@ sd
     systems dynamic
     systems dynamics
     this study develops a complex system dynamics model ( sd )
-sd_based
-    this study develops a system dynamics based ( sd_based )
-sd_bf
-    the system dynamic_based framework ( sd_bf )
-sd_wbm
-    a system dynamics_based one_dimensional soil water balance model ( sd_wbm )
 sda
     sustainable development ability
     system dynamics analysis
@@ -1128,17 +1051,15 @@ sem
 service
     , s ( service )
 ses
-    ionality of coastal ecosystem and , specifically , coastal socio_ecological system ( ses )
+    socio ecological system
 sf
     and flow
 sfc
     stock flow chart
 sfd
-    a stock_flow diagram ( sfd )
     and flow diagram
     stock flow diagram
     system flow diagram
-    this research develops a stock_flow diagram ( sfd )
 sfds
     stock and flow diagrams
 sfm
@@ -1148,11 +1069,11 @@ sfs
 si
     sustainability index
 sir
-     the pandemic has frequently been modeled using the susceptible_infected_recovered ( sir )
+    susceptible infected recovered
 sitb
     etrospective data from ciniru health center , the national tb surveillance system ( sitb )
 slso
-    fects of the urban ecological recreational system , the source_leakage_sink_order ( slso )
+    source leakage sink order
 sm
     simulation modeling
 smes
@@ -1163,7 +1084,7 @@ sncsd
 sns
     social networking service
 snwdp
-    among them , the new south_to_north water diversion project ( snwdp )
+    among them , the new south to north water diversion project ( snwdp )
     south-to-north water diversion project
 sos
     system of systems
@@ -1177,12 +1098,8 @@ sqddss
     service quality dynamic decision support system
 sr
     stripping ratio
-srblum_dsrd_dss
-    le river basin land use management dsr dynamic decision support system ( srblum_dsrd_dss )
 srca
     socially responsible collective action
-sreqom
-    8 , the society for reliability engineering , quality and operations management ( sreqom )
 srns
     small ruminant nutrition system
 ss
@@ -1192,11 +1109,9 @@ ssd
 ssdm
     soft system dynamics methodology
 ssl
-    and self_sufficiency levels ( ssl )
-ssp1_1.9
-     revealing that aggressive interventions could restore yields to low_emission ( ssp1_1.9 )
-ssp_rcp
-    a under five shared socioeconomic pathway_representative concentration pathway ( ssp_rcp )
+    self sufficiency levels
+ssp1-1.9
+     revealing that aggressive interventions could restore yields to low emission ( ssp1-1.9 )
 staas
     storage as a service
 sti
@@ -1209,8 +1124,6 @@ suds
     is suggested , including expanding representation of sustainable drainage systems ( suds )
 supply
      , whereby the demand based on population increase trend and water availability ( supply )
-t_test
-    a statistical test ( t_test )
 tam
     technology acceptance model
     theory and methods
@@ -1251,12 +1164,11 @@ tm
 tms
     talent management strategy
 toe
-    and technology_organization_environment ( toe )
-    based on the technology_organization_environment ( toe )
+    technology organization environment
 topsis
     med using the technique for order of preference by similarity to ideal solution ( topsis )
 tou
-    these technologies , combined with time_of_use ( tou )
+    time of use
 tpa
     limitations in infrastructure , insufficient landfill ( tpa )
 tpm
@@ -1266,7 +1178,7 @@ tqm
 tscc
     total supply chain cost
 tsdr
-    paper establishes an estimation model of urban transportation supply_demand ratio ( tsdr )
+    transportation supply demand ratio
 tss
     total suspended solid
 ttp
@@ -1284,17 +1196,15 @@ uls
     underground logistics system
 uml
     unified modeling language
-un_sdgs
-    study , the aim is to examine the united nations_sustainable development goals ( un_sdgs )
 unccd
     e tool and the fact that all united nations convention to combat desertification ( unccd )
 upv
-    isting of a number of subsystems and elements , which are linked by because_effect ( upv )
+    isting of a number of subsystems and elements , which are linked by because effect ( upv )
     onsisting of a number of subsystems and elements , which are linked by causeeffect ( upv )
 urt
     urban rail transit
 uts
-    storage for fermentation and conditioning in unit_tanks ( uts )
+    unit tanks
 uur
     urban underground resources
 uvc
@@ -1315,10 +1225,9 @@ vis
     to optimize the use of resources that allow completing all social interest housing ( vis )
     variable intake system
 vmi
-    , vendor_managed inventory ( vmi )
     vendor managed inventory
 vrs
-    minute_by_minute ventilation ( vrs )
+    minute by minute ventilation ( vrs )
 vsm
     value stream map
     value stream mapping
@@ -1326,20 +1235,18 @@ vsmap
     then , an extended value stream map ( vsmap )
     then , on the base of a developed extended value stream map ( vsmap )
 wasp
-    sim system_dynamics model and in_stream water quality analysis simulation program ( wasp )
+    sim system dynamics model and in stream water quality analysis simulation program ( wasp )
 waste
-     golden fiber ' of bangladesh , produces a substantial amount of stick left over ( waste )
+    he golden fiber of bangladesh , produces a substantial amount of stick left over ( waste )
 wcm
     world class manufacturing
 we
-    although the water_energy nexus ( we )
+    although the water energy nexus ( we )
     water efficiency
 weap
      framework is proposed with two simulation models [ water evaluation and planning ( weap )
 wef
      local development , especially in the critical sectors of water , energy and food ( wef )
-wefc_nexus
-    additionally , a simulation model of the waterenergyfoodcarbon nexus ( wefc_nexus )
 wgs
     whole genome sequencing
 who
@@ -1355,7 +1262,7 @@ world
 wpd
     whole population deworming
 wposc
-    , working pressure from on_site construction ( wposc )
+    , working pressure from on site construction ( wposc )
 wrcc
     water resource carrying capacity
     water resources carrying capacity
@@ -1363,8 +1270,6 @@ wtc
     willingness to consider
 wte
     waste to energy
-you_i
-    to find out the laws of knowledge transfer in the process of university_industry ( you_i )
 yto
     , yuantong express ( yto )
 yunda

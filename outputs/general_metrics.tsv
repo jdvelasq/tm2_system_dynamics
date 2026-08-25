@@ -1,0 +1,47 @@
+CATEGORY	ITEM	VALUE
+GENERAL	Annual growth rate %	21.62
+GENERAL	Average annual citations per document	0.26
+GENERAL	Average citations per document	9.53
+GENERAL	Average documents per source	1.54
+GENERAL	Average references per document	75.38
+GENERAL	Documents	1149
+GENERAL	Document average age	8.25
+GENERAL	Number of sources	745
+GENERAL	Timespan	1991:2026
+GENERAL	Total cited references	86608
+DOCUMENT TYPES	Article	726
+DOCUMENT TYPES	Book	1
+DOCUMENT TYPES	Book chapter	40
+DOCUMENT TYPES	Conference paper	375
+DOCUMENT TYPES	Data paper	1
+DOCUMENT TYPES	Retracted	2
+DOCUMENT TYPES	Review	4
+AUTHORS	Author appearances	3816
+AUTHORS	Average authors per document	3.32
+AUTHORS	Average authors per multi-authored documents	3.59
+AUTHORS	Collaboration index	3.59
+AUTHORS	Documents per author appearance	0.29
+AUTHORS	Internationally co-authored documents %	14.16
+AUTHORS	Number of authors	3373
+AUTHORS	Number of authors of single-authored documents	82
+AUTHORS	Number of multi-authored documents	1038
+AUTHORS	Number of single-authored documents	87
+AFFILIATIONS	Number of countries	81
+AFFILIATIONS	Number of countries (1st author)	69
+AFFILIATIONS	Number of organizations	1177
+AFFILIATIONS	Number of organizations (1st author)	656
+AFFILIATIONS	Number of regions	5
+AFFILIATIONS	Number of subregions	14
+KEYWORDS	Number of author keywords (norm)	2295
+KEYWORDS	Number of author keywords (raw)	2918
+KEYWORDS	Number of index keywords (norm)	4548
+KEYWORDS	Number of index keywords (raw)	6075
+KEYWORDS	Number of keywords (norm)	5672
+KEYWORDS	Number of keywords (raw)	7705
+NLP	Number of SpaCy NP phrases	23221
+NLP	Number of TextBlob NP phrases	18599
+NLP	Number of abstract NP phrases (raw)	24275
+NLP	Number of title NP phrases (raw)	3029
+NLP	Number of NP phrases (raw)	25642
+NLP	Number of concepts (raw)	29999
+NLP	Number of concepts (norm)	21132

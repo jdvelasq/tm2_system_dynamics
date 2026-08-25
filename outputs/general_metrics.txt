@@ -1,0 +1,48 @@
+                                                                   VALUE
+CATEGORY       ITEM                                                     
+GENERAL        Annual growth rate %                                21.62
+               Average annual citations per document                0.26
+               Average citations per document                       9.53
+               Average documents per source                         1.54
+               Average references per document                     75.38
+               Documents                                            1149
+               Document average age                                 8.25
+               Number of sources                                     745
+               Timespan                                        1991:2026
+               Total cited references                              86608
+DOCUMENT TYPES Article                                               726
+               Book                                                    1
+               Book chapter                                           40
+               Conference paper                                      375
+               Data paper                                              1
+               Retracted                                               2
+               Review                                                  4
+AUTHORS        Author appearances                                   3816
+               Average authors per document                         3.32
+               Average authors per multi-authored documents         3.59
+               Collaboration index                                  3.59
+               Documents per author appearance                      0.29
+               Internationally co-authored documents %             14.16
+               Number of authors                                    3373
+               Number of authors of single-authored documents         82
+               Number of multi-authored documents                   1038
+               Number of single-authored documents                    87
+AFFILIATIONS   Number of countries                                    81
+               Number of countries (1st author)                       69
+               Number of organizations                              1177
+               Number of organizations (1st author)                  656
+               Number of regions                                       5
+               Number of subregions                                   14
+KEYWORDS       Number of author keywords (norm)                     2295
+               Number of author keywords (raw)                      2918
+               Number of index keywords (norm)                      4548
+               Number of index keywords (raw)                       6075
+               Number of keywords (norm)                            5672
+               Number of keywords (raw)                             7705
+NLP            Number of SpaCy NP phrases                          23221
+               Number of TextBlob NP phrases                       18599
+               Number of abstract NP phrases (raw)                 24275
+               Number of title NP phrases (raw)                     3029
+               Number of NP phrases (raw)                          25642
+               Number of concepts (raw)                            29999
+               Number of concepts (norm)                           21132

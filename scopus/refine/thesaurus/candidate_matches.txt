@@ -1,1664 +1,1207 @@
-technique for order of preference by similarity to ideal solution method 0:0
-    technique for order of preference by similarity to ideal solution 0004:000064
-    technique for order of preference by similarity to ideal solution model 0001:000001
-dynamic model 0200:002218
-    dynami model 0001:000000
-simulation model 0131:001324
-    simulating model 0001:000001
-computer software 0114:001048
-    computer softwares 0001:000098
-sustainable development 0099:001915
-    sustainable developments 0029:000574
-    unsustainable development 0001:000004
-supply chain 0081:001000
-    g supply chain 0001:000005
-mathematical model 0038:000460
-    mathematic model 0003:000003
-economic development 0033:000578
-    economic developments 0008:000223
-stock and flow diagram 0032:000206
-    stock flow diagram 0019:000163
-modeling and simulation 0029:000177
-    modeling and simulations 0004:000045
+dynamic 0949:009160
+    dynamism 0004:000038
+dynamics model 0465:005037
+    dynamics modeling 0214:001594
+    dynamic system model 0007:000174
+    dynamic system modeling 0005:000036
+    model dynamics 0004:000056
+    dynamic model modeling 0001:000003
+    modeling system dynamics 0001:000002
+    dynamical modeling 0001:000000
+dynamics approach 0184:002199
+    dynamical system approach 0001:000004
+simulate 0175:001951
+    simulator 0011:000161
+simulation model 0129:001276
+    modeling and simulation 0031:000212
+    simulation modeling 0026:000151
+    model simulation 0020:000198
+    model and simulation 0011:000061
     modeling and simulating 0002:000003
-dynamics systems 0027:000144
-    dynamics of system 0001:000007
-numerical model 0026:000759
-    numerical models 0005:000017
-environmental protection 0025:000883
-    environment protection 0001:000002
-model simulation 0021:000224
-    sd model simulation 0001:000003
-carbon dioxide emissions 0021:000173
-    peak carbon dioxide emission 0001:000018
-economic growth 0020:000246
-    economic growths 0010:000076
-analytic hierarchy process 0015:000071
-    analytical hierarchy process 0004:000081
-supply and demand 0015:000060
-    supply and demands 0001:000001
-knowledge transfer 0014:000131
-    knowledge transfers 0008:000114
-dynamic simulation modeling 0014:000036
-    dynamic simulating modeling 0001:000002
-environmental impact 0013:000934
-    environmental impacts 0006:000054
-    eco environmental impact 0001:000029
+    simulated model 0001:000005
+    simulating model 0001:000001
+management 0101:001270
+    manager 0032:000385
+    manageable 0001:000000
+construct 0099:000538
+    construction 0052:000946
+sd model 0091:000946
+    sd modeling 0009:000042
+development 0090:000730
+    developer 0003:000005
+interaction 0087:000854
+    interactivity 0002:000073
+    interact 0001:000026
+causal loop diagram 0083:000767
+    causal loop diagramming 0003:000000
+dynamics simulation 0078:000683
+    dynamics and simulations 0002:000005
+    simulation of system dynamics 0001:000046
+    dynamic system simulation 0001:000001
+industry 0073:000540
+    industrial 0004:000093
+    industrialization 0003:000016
+influencing factors 0070:000431
+    factors influence 0001:000001
+government 0069:001141
+    governance 0005:000228
+production 0058:000300
+    product 0036:000335
+    productivity 0018:000227
+operation 0055:000367
+    operator 0004:000026
+    operability 0003:000031
+sustainability 0054:000944
+    sustainable 0018:000254
+technology 0049:000271
+    technological 0001:000003
+water supply 0044:000576
+    supply water 0001:000006
+market 0042:000575
+    marketing 0016:000089
+mathematical modeling 0041:000474
+    mathematic model 0003:000003
+reduction 0039:000937
+    % reductions 0002:000105
+dynamics analysis 0039:000395
+    analysis of system dynamics 0002:000003
+    dynamic system analysis 0001:000006
+region 0039:000254
+    regional 0002:000020
+    regionality 0001:000006
+water management 0038:000495
+    water managers 0003:000022
+manufacture 0036:000661
+    manufacturer 0018:000168
+social 0035:001235
+    socialization 0001:000002
+function 0035:000427
+    functionality 0006:000193
+profit 0035:000299
+    profitability 0032:000175
+innovation 0035:000243
+    innovate 0003:000007
+dynamics theory 0035:000242
+    dynamics system theory 0001:000001
+simulation analysis 0034:000429
+    analysis and simulation 0003:000015
+    simulation and analysis 0003:000014
+dynamics simulation model 0034:000331
+    dynamic simulation modeling 0013:000033
+    dynamics modeling and simulation 0011:000022
+    dynamic model simulations 0002:000024
+    modeling and simulation of system dynamics 0002:000004
+    dynamic model and simulation 0002:000002
+    simulation of system dynamics model 0001:000004
+recycl 0033:001461
+    recycler 0005:000058
+    recycle 0002:000396
+    recyclability 0001:000012
+supply chain management 0033:000517
+    supply chain managers 0001:000012
+agriculture 0032:000242
+    agricultural 0002:000010
+systems thinking 0030:000245
+    systemic thinking 0001:000000
+competition 0029:000305
+    competitiveness 0014:000120
+information management 0028:000354
+    information system management 0002:000001
+integration 0027:000475
+    integral 0001:000014
+mechanism 0026:000213
+    mechanical 0002:000008
+    mechanization 0002:000001
+systems analysis 0025:000453
+    systemic analysis 0001:000088
+practice 0025:000278
+    practicality 0003:000001
+stability 0025:000195
+    stabilizer 0001:000006
+    stabilization 0001:000005
+carbon 0025:000119
+    carbon carbons 0001:000004
+material 0024:000275
+    materialization 0001:000014
+dynamic behavior 0023:000462
+    behavioral dynamics 0002:000000
+ecology 0023:000162
+    ecological 0004:000036
+education 0023:000094
+    educational 0001:000005
+object 0022:000123
+    objectivity 0001:000001
+project management 0021:000371
+    project managers 0005:000083
+    management projects 0001:000002
+response 0021:000192
+    responsiveness 0003:000012
+    responsibility 0001:000014
+dynamic modeling approach 0021:000191
+    dynamic model approach 0002:000002
+model validation 0020:000304
+    model validity 0003:000002
+    validated model 0001:000020
+developing countries 0020:000300
+    developed countries 0002:000000
+gross domestic production 0020:000133
+    gross domestic product 0013:000314
+causal diagram 0020:000105
+    causality diagram 0003:000006
+resilience 0019:000244
+    resilient 0001:000037
+management strategies 0019:000216
+    manager strategies 0001:000000
+dynamic systems 0019:000144
+    systemic dynamics 0001:000000
+allocation 0019:000132
+    allocator 0001:000005
+technological innovation 0019:000124
+    technology and innovation 0001:000001
+progress 0019:000102
+    progressive 0001:000011
+intensity 0019:000089
+    intensive 0001:000000
+urbanization 0018:000545
+    urban 0002:000013
+    urbanism 0001:000010
+utilization 0018:000393
+    utility 0007:000085
+developed model 0018:000344
+    model development 0009:000089
+    development model 0004:000005
+computer 0018:000136
+    computation 0005:000036
+theoretical model 0017:000551
+    theoretical modeling 0001:000019
+regulation 0017:000493
+    regulator 0001:000005
+pollution 0017:000459
+    pollutant 0009:000059
+cost effectiveness 0017:000203
+    cost effective 0005:000032
+conceptual model 0017:000164
+    conceptual modeling 0001:000001
+generation 0017:000111
+    generalization 0002:000019
+strategic planning 0016:000143
+    strategic plan 0001:000018
+simulation software 0016:000099
+    software simulations 0001:000000
+projection 0016:000093
+    project and project 0001:000000
+water resources management 0015:000348
+    water resource managers 0002:000013
+infrastructure 0015:000040
+    infrastructural 0001:000005
+electric vehicle 0014:000294
+    electricity vehicles 0001:000008
+electricity 0014:000162
+    electric 0001:000001
+scenario simulations 0014:000115
+    simulation scenarios 0009:000066
+    simulated scenarios 0003:000062
+    scenario and scenario simulations 0001:000000
+computer program 0013:000663
+    computer programming 0002:000019
 air pollution 0013:000361
-    air pollutions 0002:000073
-resource allocation 0013:000159
-    resource allocations 0003:000003
-simulation software 0013:000024
-    simulation softwares 0004:000009
+    air pollutants 0002:000018
+hospital 0013:000192
+    hospitalization 0002:000000
+computer model 0013:000184
+    computational modeling 0004:000002
+    computer modeling 0003:000012
+performance indicators 0013:000138
+    performance indices 0002:000017
+animal 0013:000124
+    animation 0001:000000
+coordination 0013:000055
+    coordinator 0001:000000
+dynamic changes 0013:000043
+    dynamic system changes 0001:000000
+transition 0013:000027
+    transit 0003:000015
+employment 0012:000141
+    employer 0001:000006
+    employability 0001:000003
+retailer 0012:000053
+    retail 0002:000002
 prediction model 0012:000051
-    sd prediction model 0001:000001
-computer program 0011:000647
-    computer programs 0002:000016
-environmental pollution 0011:000190
-    environmental pollutions 0008:000152
-    environment pollution 0002:000001
+    model prediction 0002:000016
+    prediction modeling 0002:000002
+    predictive modeling 0001:000000
+dynamics equation 0012:000040
+    dynamic level equations 0001:000001
+promotion 0012:000022
+    promoter 0001:000000
+urban growth 0011:000214
+    urbanization growth 0001:000022
+originality 0011:000201
+    origin 0003:000000
+reservoirs water 0011:000153
+    water reservoir 0001:000009
 software package 0011:000151
-    sd software package 0001:000119
-quantitative simulation 0010:000186
-    quantitative simulations 0002:000032
-water demand 0009:000112
-    water demands 0007:000088
-solid waste 0009:000080
-    solid wastes 0006:000045
-urban development 0009:000078
-    urban developments 0001:000171
-coordinated development 0009:000052
-    coovdinated development 0001:000000
-safety management 0009:000049
-    safety managements 0003:000026
-technological innovation 0009:000024
-    technological innovations 0006:000087
-construction waste 0008:000565
-    construction wastes 0006:000631
-transportation system 0008:000193
-    transportation systems 0001:000171
-safety factor 0008:000141
-    safety factors 0001:000090
-system behavior 0008:000127
-    system behaviors 0003:000096
-simulation tool 0008:000094
-    simulating tool 0001:000009
-irrigation system 0008:000087
-    irrigation systems 0005:000024
-health care system 0008:000051
-    health care systems 0001:000003
-prevention and control 0008:000017
-    prevention and controls 0002:000001
-construction and demolition waste 0007:000702
-    construction and demolition wastes 0004:000380
-performance indicators 0007:000048
-    key performance indicator 0005:000086
-causal loop diagram casual loop diagram 0007:000037
-    casual loop diagram casual loop diagram 0001:000000
-building material 0006:000699
-    building materials 0004:000023
-development stage 0006:000299
-    developmental stage 0001:000005
-closed-loop supply chain 0006:000257
-    closed-loop supply chains 0001:000011
+    package software 0001:000018
+safety management 0011:000070
+    safety managers 0001:000002
+dynamics software vensim 0011:000051
+    dynamic and vensim software 0001:000000
+hydrological modeling 0010:000273
+    hydrological model 0005:000061
+model test 0010:000265
+    modeling tests 0001:000013
+salinity 0010:000134
+    salinization 0004:000126
+upgrade 0010:000038
+    upgradation 0001:000004
+epidemiology 0010:000028
+    epidemiological 0001:000011
+control variables 0009:000220
+    controlled variable 0001:000013
+    controllable variables 0001:000006
+policy interventions 0009:000105
+    intervention policy 0002:000171
+interdependency 0009:000084
+    interdependent 0001:000098
+vensim model 0009:000074
+    vensim modeling 0002:000009
+motivation 0009:000073
+    motivator 0002:000019
+    motive 0001:000001
+modeling process 0009:000068
+    process model 0002:000015
+cooperation 0009:000029
+    cooperative 0002:000020
+performance dynamics 0009:000013
+    dynamic performance 0001:000000
+cost control 0008:000448
+    controllable costs 0001:000037
+land use change 0008:000191
+    land changes 0001:000148
+application of system dynamics 0008:000147
+    dynamics application 0002:000001
+evaporation 0008:000141
+    evaporator 0001:000003
+management scenarios 0008:000092
+    scenario management 0001:000016
+questionnaire survey 0008:000084
+    surveys and questionnaires 0002:000027
+stocks and flows 0008:000075
+    stock flows 0004:000057
+rationality 0008:000075
+    rational 0001:000005
+dynamics tool 0008:000073
+    dynamic system tools 0002:000001
+engineering 0008:000069
+    engine 0006:000054
+    engineer 0005:000031
+vaccination 0008:000022
+    vaccine 0002:000005
+incidence 0008:000022
+    incident 0003:000027
+integrated model 0007:000176
+    integrated modeling 0003:000014
+    integrative models 0001:000005
+    model integrity 0001:000003
+    model integration 0001:000001
+sd approach 0007:000107
+    approach sd approach 0001:000027
+hydrology 0007:000105
+    hydrological 0003:000156
+energy efficiency 0007:000090
+    energy efficient 0001:000009
+agricultural production 0007:000090
+    agricultural products 0006:000010
+    agricultural productivity 0002:000001
+    agriculture product 0001:000017
+connection 0007:000073
+    connectivity 0002:000056
+computer simulation model 0007:000071
+    computer simulation modeling 0001:000053
+    computer modeling and simulation 0001:000020
+adaptation 0007:000065
+    adaptability 0002:000019
+    adaptive 0002:000006
+model structure 0007:000050
+    structural model 0002:000014
+    structural modeling 0001:000007
+knowledge sharing 0007:000022
+    shared knowledge 0001:000000
+effect analysis 0006:000178
+    effectiveness analysis 0001:000000
+production capacity 0006:000152
+    productive capacity 0001:000022
+qualitative model 0006:000138
+    qualitative modeling 0002:000002
 water use efficiency 0006:000123
     water efficiency 0001:000022
-agricultural production 0006:000086
-    agricultural productions 0003:000026
-stock and flow model 0006:000057
-    stock and flow models 0004:000033
-    stock and flow sd model 0002:000013
-surface water 0006:000042
-    surface waters 0005:000030
+sustainable tourism 0006:000123
+    sustainability sustainable tourism 0001:000003
+economic model 0006:000091
+    economic modeling 0001:000004
+vensim simulation 0006:000084
+    simulating in vensim 0001:000003
+development scenarios 0006:000071
+    developed scenarios 0001:000013
+    scenario development 0001:000000
+development process 0006:000060
+    process development 0001:000133
+policy effects 0006:000051
+    policy effectiveness 0002:000000
+architectural design 0006:000051
+    architectural designer 0001:000004
+geographic information systems 0006:000047
+    geographic informative systems 0002:000005
+irrigation agriculture 0006:000045
+    agricultural irrigation 0002:000042
+    agriculture irrigation 0001:000005
+decision variables 0006:000044
+    decisive variable 0002:000167
 evaluation model 0006:000040
-    evalutation model 0001:000001
-unsafe behavior 0006:000026
-    unsafe behaviors 0002:000002
-theory and method 0006:000012
-    theory and methods 0003:000006
-cost control 0005:000407
-    cost controls 0002:000011
-construction waste management 0005:000382
-    construction waste managements 0003:000420
-nonlinear feedback 0005:000178
-    nonlinear feedbacks 0001:000171
-reverse supply chain 0005:000122
-    reverse supply chains 0005:000031
-dynamic evolution process 0005:000109
-    dynamical evolution process 0001:000007
-water supply and demand 0005:000106
-    water supply and demands 0002:000009
-correlation coefficient 0005:000079
-    correlation coefficients 0004:000009
-safety investments 0005:000061
-    safety investment 0005:000037
-hydrological model 0005:000061
-    hydrologic model 0001:000004
-crop yield 0005:000061
-    crop yields 0005:000005
-continuous improvement 0005:000045
-    continuous improvements 0003:000005
-surface water resources 0005:000034
-    surface water sources 0001:000004
-software tools 0005:000029
-    sd software tools 0001:000001
-systems structure 0005:000028
-    sd system structure 0001:000001
-simulation and optimization 0005:000020
-    cost simulation and optimization 0001:000007
-nonlinear system 0005:000012
-    nonlinear systems 0004:000018
-marine steam boiler 0005:000012
-    marine steam boilers 0005:000012
-technology innovation 0005:000011
-    technology and innovation 0001:000001
-cost effectiveness analysis 0005:000010
-    effectiveness analysis 0001:000000
-urban transportation system 0004:000183
-    urban transportation systems 0003:000171
-water table 0004:000127
-    water tables 0003:000011
-organizational learning 0004:000099
-    organization learning 0001:000000
-statistics and numerical data 0004:000069
-    iron statistics and numerical data 0001:000002
-return on investment 0004:000051
-    return on investments 0003:000050
-simulation and sensitivity analysis 0004:000048
-    model simulation and sensitivity analysis 0001:000017
-tripartite evolutionary game model 0004:000041
-    tripartite evolutionary game 0001:000019
+    model evaluation 0003:000065
+    evaluation modeling 0002:000003
+    modeling and evaluating 0001:000001
+interaction relationship 0006:000030
+    interactive relationships 0002:000027
+process control 0006:000016
+    control process 0001:000000
+sensitivity tests 0006:000005
+    sensitive tests 0001:000004
+value stream mapping 0005:000156
+    value stream map 0004:000121
+soil water 0005:000153
+    soil and water 0001:000001
+models biological 0005:000109
+    biological model 0004:000056
+conduct simulation 0005:000108
+    conduct system simulation 0001:000000
+remanufacture 0005:000077
+    remanufacturer 0003:000038
+application of a system dynamics model 0005:000066
+    dynamics modeling application 0001:000000
+automation 0005:000054
+    automate 0002:000026
+return on investment 0005:000052
+    investment returns 0003:000015
+performance measure 0005:000040
+    performance measurement 0003:000198
+drug 0005:000037
+    drugs need drug 0001:000000
+coal mines 0005:000035
+    coal mining 0004:000002
+nation 0005:000032
+    national 0003:000013
+mathematic 0005:000029
+    mathematization 0001:000004
+energy production 0005:000024
+    energy productivity 0001:000003
+policy simulation 0005:000023
+    simulation and policy simulation 0001:000000
+validity test 0005:000020
+    validation test 0002:000038
+    tests for validation 0001:000000
+transportation cost 0005:000020
+    transportation system cost 0001:000001
+municipality 0005:000020
+    municipal 0001:000002
+dynamics concept 0005:000020
+    concepts of system dynamics 0001:000022
+interaction mechanism 0005:000012
+    interactive mechanism 0002:000003
+implementation effect 0005:000012
+    implementation effectiveness 0001:000001
+bank 0005:000010
+    banking 0003:000008
+waste recycling 0004:000421
+    recyclable waste 0001:000042
+power supply 0004:000101
+    supply power 0001:000008
+refine 0004:000095
+    refinement 0001:000000
+personnel training 0004:000089
+    training personnel 0001:000011
+electricity prices 0004:000077
+    electricity pricing 0001:000000
+modeling methods 0004:000072
+    model method 0003:000002
+transport policies 0004:000070
+    transportation policy 0001:000050
+emergency 0004:000066
+    emergence 0001:000000
+season 0004:000062
+    seasonality 0001:000011
+integrated management 0004:000062
+    integration management 0001:000034
+flow modeling 0004:000059
+    flow model 0002:000000
+dynamics based model 0004:000053
+    dynamics based modeling 0001:000000
+contamination 0004:000053
+    contaminant 0001:000011
+holistic approach 0004:000041
+    holistic system approach 0001:000031
+continuous model 0004:000040
+    continuous high level model 0001:000001
+business model 0004:000040
+    business modeling 0001:000000
 organization and management 0004:000039
-    organizational management 0002:000018
     organization management 0001:000007
-public health service 0004:000030
-    public health services 0001:000014
-dynamic system modeling 0004:000030
-    dynamic system modelling 0001:000006
-energy structure 0004:000026
-    energy structures 0004:000016
-incentive mechanisms 0004:000025
-    incentive mechanism 0004:000020
-economic model 0004:000024
-    economic models 0002:000067
+policy model 0004:000037
+    policy modeling 0001:000000
+management policies 0004:000035
+    policy management 0001:000000
+water productivity 0004:000031
+    water production 0002:000010
+causal loop model 0004:000029
+    causal loop modeling 0002:000014
+input variables 0004:000028
+    variable input 0001:000006
+cloud model 0004:000028
+    cloud modeling 0001:000000
+policy measures 0004:000027
+    policies and measures 0001:000000
+ecological restoration 0004:000024
+    restoration ecology 0001:000001
+simulation process 0004:000022
+    simulated process 0001:000007
+constructed model 0004:000020
+    model construction 0002:000023
+    construction model 0001:000018
+    modeling construct 0001:000000
+degradation 0004:000019
+    degrade 0002:000080
 model of systems 0004:000017
+    modeling systems 0003:000013
     model systems 0003:000006
-decision making trial and evaluation laboratory 0004:000017
-    decision making trial and evaluation laboratory method 0002:000007
-    fuzzy decision making trial and evaluation laboratory 0001:000007
-operational efficiency 0004:000015
-    operation efficiency 0001:000000
-conceptual framework 0004:000011
-    conceptual frameworks 0003:000035
-human capital 0004:000009
-    human capitals 0002:000002
-steam boiler 0004:000006
-    steam boilers 0002:000007
-internal and external factors 0004:000002
-    external and internal factors 0001:000014
-economic impact 0003:000384
-    economic impacts 0003:000014
-economic aspect 0003:000353
-    economic aspects 0002:000036
-theory of planned behavior 0003:000283
-    theory of planned behaviors 0001:000239
-waste landfill 0003:000243
-    waste landfills 0001:000225
-vehicle ownership 0003:000189
-    vehicle ownerships 0001:000171
-surface runoff 0003:000121
-    surface runoffs 0001:000003
-supply disruption 0003:000118
-    supply disruptions 0002:000113
-modeling and analysis 0003:000114
-    modeling analysis 0001:000000
-enterprise resource planning systems 0003:000094
-    enterprise resources planning system sap 0001:000020
-sd based model 0003:000081
-    based model 0001:000004
-operational process 0003:000074
-    operation process 0001:000002
-environmental economic 0003:000060
-    environmental and economic 0001:000022
-operation cost 0003:000047
-    operational cost 0001:000001
-behavior reproduction test 0003:000042
-    behavioral reproduction test 0001:000000
-fire accident 0003:000038
-    fire accidents 0001:000006
+    systemic model 0002:000004
+social economic 0004:000015
+    social and economic 0001:000000
+end user 0004:000015
+    user end 0001:000000
+dynamics study 0004:000015
+    dynamic system study 0001:000002
+    dynamics case study 0001:000000
+carbon peak 0004:000014
+    carbon peaking 0002:000002
+cost benefit 0004:000013
+    costs and benefits 0001:000003
+fertilizer 0004:000012
+    fertility 0001:000002
+    fertilization 0001:000000
+process optimization 0004:000011
+    optimization process 0001:000013
+electricity generation 0004:000010
+    electric generators 0001:000001
+sustainable agriculture 0004:000008
+    agriculture sustainability 0001:000088
+    agricultural sustainability 0001:000000
+age 0004:000007
+    aging 0003:000005
+impact factors 0004:000006
+    factor impact 0001:000002
+informatization 0004:000005
+    informatic 0001:000001
+village 0004:000004
+    villager 0002:000016
+supply chain model 0004:000000
+    supply chain modeling 0002:000000
+production cost 0003:000137
+    product costs 0001:000003
+digitization 0003:000110
+    digitalization 0002:000041
+past decades 0003:000102
+    past several decades 0001:000031
+planning strategies 0003:000075
+    planned strategies 0001:000001
+real data 0003:000056
+    real case data 0001:000003
+medical costs 0003:000052
+    medication cost 0002:000003
+steelmake 0003:000047
+    steelmaker 0001:000015
+soil pollution 0003:000047
+    soil pollutant 0001:000011
+life cycle products 0003:000041
+    product life cycles 0001:000008
+unsustainable 0003:000038
+    unsustainability 0001:000018
+integrated system dynamics 0003:000034
+    dynamics integration 0001:000081
 dynamic sd model 0003:000034
-    dynamics model sd 0001:000000
-public opinion 0003:000029
-    public opinions 0003:000029
-model building 0003:000027
-    model buildings 0002:000007
-policy simulations 0003:000026
-    policy simulation 0003:000015
-multiobjective optimization 0003:000020
-    multi-objectives optimization 0002:000006
-local governments 0003:000019
-    local government 0003:000004
-environmental subsystems 0003:000013
-    environment subsystems 0002:000017
-electricity demand 0003:000013
-    electricity demands 0001:000004
-water ecological carrying capacity 0003:000011
-    ecological carrying capacity 0002:000004
-    water ecological carrying capacity model 0001:000000
-economic evaluation 0003:000011
-    economic evaluations 0003:000000
-development model 0003:000011
-    development models 0003:000001
-innovation network 0003:000010
-    innovation networks 0003:000010
-driver pressure state impact response 0003:000010
-    driver pressure state impact response model 0003:000010
-sd modeling software 0003:000009
-    modeling softwares 0002:000003
-sd model analysis 0003:000009
-    model analysis 0001:000008
-human behavior 0003:000009
-    human behaviors 0001:000009
-economic assessment 0003:000008
-    economic assessments 0001:000000
-intensive care unit 0003:000007
-    intensive care units 0003:000007
-network public opinion 0003:000006
-    network public opinions 0002:000022
-healthy development 0003:000006
-    health development 0001:000000
-matlab simulink 0003:000005
-    matlab/ simulink 0001:000000
-dynamics approach 0003:000005
-    dynamics approache 0001:000001
-operation mechanism 0003:000003
-    cooperation mechanism 0001:000002
-    operational mechanism 0001:000000
-agricultural water use efficiency 0003:000003
-    agricultural water efficiency 0001:000000
-learning effect 0003:000000
-    learning effects 0003:000000
-construction waste generation 0002:000243
-    construction waste generations 0001:000226
-reduction management 0002:000226
-    dw reduction management 0001:000010
-environmental influences 0002:000202
-    environmental influence 0002:000177
-travel demand 0002:000171
-    travel demands 0001:000171
-sustainable supplier selection 0002:000167
-    sustainable supplier selections 0002:000167
-dynamic reward and punishment mechanism 0002:000099
-    dynamic reward punishment mechanism 0001:000001
-energy modeling a biophysical approach 0002:000092
-    energy model using a biophysical approach 0002:000092
-hazardous waste 0002:000089
-    hazardous wastes 0001:000040
-decision preferences 0002:000080
-    decision reference 0001:000001
-land use management 0002:000075
-    land managements 0001:000035
-quality level 0002:000074
-    quality levels 0001:000000
-organizational mechanism 0002:000067
-    inter organization mechanism 0001:000002
-hydrological processes 0002:000061
-    hydrologic processes 0001:000020
-numerical simulation 0002:000060
-    numerical simulations 0002:000008
-simulation paradigm 0002:000059
-    simulation paradigms 0002:000059
-simulation exercise 0002:000058
-    simulation exercises 0001:000013
-young adult 0002:000055
-    young adults 0001:000000
-tobacco attributable mortality 0002:000055
-    tobacco attibutable mortality 0001:000000
-temperature effect 0002:000054
-    temperature effects 0001:000001
-organizational change 0002:000051
-    organizational changes 0002:000001
-governance mechanism 0002:000045
-    governance mechanisms 0001:000007
-multi scenario simulations 0002:000042
-    multi scenario simulation 0002:000030
-leadership in energy and environmental design 0002:000042
-    leadership in energy and environmental design rating 0001:000020
-crop-livestock systems 0002:000042
-    croplivestock systems 0001:000000
-modeling environments 0002:000037
-    modeling environment 0002:000012
-    open modeling environment 0001:000006
-cost evaluation 0002:000037
-    cost evaluations 0001:000000
-water quality and quantity 0002:000036
-    water quantity and quality 0002:000023
-electronic device 0002:000036
-    electronic devices 0002:000036
-transfer context 0002:000035
-    transfer contexts 0001:000000
-service management 0002:000030
-    it service management 0001:000005
-decision making tool 0002:000030
-    decision making tools 0001:000029
-organization system 0002:000029
-    organizational system 0001:000000
-diffusion model 0002:000029
-    diffusion models 0002:000029
-seasonal variation 0002:000028
-    seasonal variations 0001:000000
-drainage system 0002:000028
-    drainage systems 0002:000028
-maximum sustainable yield 0002:000027
-    maximum sustainable yields 0001:000014
-interdependent relationships 0002:000027
-    interdependence relationships 0001:000001
-supplier evaluation 0002:000026
-    supplier evaluations 0001:000023
-production enterprises 0002:000026
-    oil production enterprise 0001:000024
-waste management processes 0002:000025
-    urban waste management process 0001:000042
-production system 0002:000025
-    production systems 0001:000034
-operation modes 0002:000024
-    operational modes 0001:000011
-dynamics model simulation 0002:000024
-    dynamics model and simulation 0001:000002
-soil water balance models 0002:000023
-    soil water balance model 0002:000007
-interaction processes 0002:000023
-    integration processes 0002:000006
-transportation infrastructure 0002:000021
-    transportation infrastructures 0001:000010
-dynamics sd modeling 0002:000021
-    dynamics modelling 0001:000001
-farming system 0002:000019
-    farming systems 0001:000007
-cost estimation model 0002:000019
-    cost estimation models 0001:000008
-mass vaccination 0002:000018
-    mass vaccinations 0001:000017
-structural equations 0002:000017
-    structural equation 0002:000004
-dynamics modeling methodology 0002:000016
-    dynamic flood modeling methodology 0001:000000
-negative impacts 0002:000015
-    negative impact 0002:000007
-computational simulation 0002:000015
-    computation and simulation 0001:000003
-sustainable supply chain 0002:000013
-    sustainable supply chains 0001:000005
-special assistance teachers 0002:000013
-    special assistance teachers tool 0001:000013
-reservoir operation 0002:000013
-    reservoir operations 0001:000052
-productivity improvement 0002:000013
-    productivity improvements 0001:000012
-zea mays 0002:000012
-    zea mays l 0001:000005
-recycled aggregate 0002:000012
-    recycled aggregates 0001:000012
-landfill charge 0002:000012
-    landfill charges 0001:000000
-disruptive innovation 0002:000012
-    disruptive innovations 0002:000009
-crop water requirements 0002:000012
-    crop water requirement 0002:000005
-public-private partnership 0002:000011
-    public-private partnerships 0001:000001
-public private partnership wastewater treatment projects 0002:000011
-    built public private partnership wastewater treatment project 0001:000001
-photovoltaic systems 0002:000011
-    photovoltaic system 0002:000008
-investment decision 0002:000011
-    investment decisions 0002:000011
-computer language 0002:000011
-    computer languages 0001:000005
-energy performance contracting 0002:000010
-    rfid energy performance contracting 0001:000010
-    energy performance contracting mode 0001:000000
-social network 0002:000009
-    social networks 0002:000009
-open source 0002:000009
-    open sources 0002:000006
-irrigation water 0002:000009
-    irrigation waters 0001:000003
-feedback sd model 0002:000009
-    feedback model 0002:000000
-carbon monoxide operation planning forecasting replenishment 0002:000009
-    carbon monoxide operation planning forecasting replenishment model 0002:000009
-budget allocation 0002:000009
-    budget allocations 0002:000006
-big data environment 0002:000009
-    data environment 0001:000008
-path dependence 0002:000008
-    path dependency 0001:000000
-optimal allocation 0002:000008
-    optimal allocations 0001:000006
-online public opinion 0002:000008
-    online public opinions 0001:000004
-inventory system 0002:000008
-    inventory systems 0002:000008
-energy transition 0002:000008
-    energy transitions 0001:000000
-cost estimation 0002:000008
-    cost estimations 0002:000008
-    cost estimating 0001:000008
-cluster supply chain 0002:000008
-    cluster supply chains 0002:000008
-simulation language 0002:000007
-    simulation languages 0001:000007
-model application 0002:000007
-    model applications 0002:000005
-land consolidation 0002:000007
-    land consolidations 0001:000007
-heuristic optimization 0002:000007
-    heuristic optimizations 0001:000007
-health technology assessment 0002:000007
-    health technology assessments 0001:000006
-travel behavior 0002:000006
-    travel behaviors 0001:000000
-qualitative and quantitative data 0002:000006
-    quantitative and qualitative data 0001:000002
-flow diagram model 0002:000006
-    flow diagram mode 0001:000001
-balanced scorecard 0002:000006
-    balanced scorecards 0001:000001
-revenue sharing contract 0002:000005
-    revenue sharing contracts 0002:000005
-labor market 0002:000005
-    labor markets 0001:000000
-gross domestic production growth rate 0002:000005
-    gross domestic production growth 0001:000001
-sustainable development model 0002:000004
-    sustainable development mode 0001:000016
-power uprate 0002:000004
-    power uprates 0002:000004
-potable water 0002:000004
-    portable water 0001:000000
-peste discrete event simulation petits ruminants 0002:000004
-    pest discrete event simulation petits ruminant control 0001:000003
-multi-value chain 0002:000004
-    multi-value chains 0001:000002
-manufacturing resource 0002:000004
-    manufacturing resources 0001:000000
-innovation ecosystem 0002:000004
-    innovation ecosystems 0001:000003
-goat disease 0002:000004
-    goat diseases 0002:000004
-economic situation 0002:000004
-    economic situations 0001:000005
-competitive intelligence early warning 0002:000004
-    competitive intelligence early warning work 0002:000004
-collaborative operation 0002:000004
-    collaborative operations 0001:000002
-advanced persistent threat 0002:000004
-    advanced persistent threats 0002:000004
-waste mobile phone 0002:000003
-    waste mobile phones 0001:000002
-safety benefit 0002:000003
-    safety benefits 0001:000001
-residential electricity consumption 0002:000003
-    residential electricity consumption model 0001:000003
-pricing model 0002:000003
-    pricing models 0002:000003
-marketing channel 0002:000003
-    marketing channels 0001:000000
-green and low carbon transformation 0002:000003
-    green low carbon transformation 0001:000003
-    green and low carbon transformation path 0001:000000
-sheep disease 0002:000002
-    sheep diseases 0002:000002
-renewable energy integration 0002:000002
-    renewable energy integrations 0001:000000
-operational effectiveness evaluation 0002:000002
-    operational effectiveness evaluations 0002:000002
-model method 0002:000002
-    model methods 0001:000000
-lotka volterra sd model 0002:000002
-    lotka volterra model 0001:000000
-consumer behavior 0002:000002
-    consumer behaviors 0001:000006
-strategic alliance 0002:000001
-    strategic alliances 0001:000000
-natural language 0002:000001
-    natural languages 0002:000001
-housing price 0002:000001
-    housing prices 0001:000000
-guiding significance 0002:000001
-    guiding significances 0001:000001
-dynamic complexity rules 0002:000001
-    ynamic complexity rules 0001:000008
-contaminated water 0002:000001
-    contaminated waters 0001:000000
-ship propulsion system 0002:000000
-    ship propulsion systems 0001:000000
-primary factors 0002:000000
-    primary key factor 0001:000001
-mental verbal structural models 0002:000000
-    mental and verbal structural models 0001:000000
-load condition 0002:000000
-    load conditions 0002:000000
-internal motivation 0002:000000
-    internal motivations 0001:000000
-harm minimisation strategies 0002:000000
-    harm minimization strategies 0001:000034
-gas turbine 0002:000000
-    gas turbines 0002:000000
-environmental degradation 0002:000000
-    environment degradation 0001:000042
-    environmental degradations 0001:000000
-recycling waste 0001:000351
-    recycling wastes 0001:000000
-site management performance 0001:000239
-    management performance 0001:000006
-design and construction stage 0001:000226
-    design and construction stages 0001:000226
-socio-economic impact 0001:000119
-    socio-economic impacts 0001:000119
-cobalt supply disruption 0001:000105
-    cobalt supply disruptions 0001:000105
-paddy field 0001:000098
-    paddy fields 0001:000005
-hydrological cycle 0001:000098
-    hydrologic cycle 0001:000004
-dynamics evolution model 0001:000098
-    risk dynamic evolution model 0001:000010
-automobile manufacture 0001:000098
-    automobile manufacturers 0001:000004
-sustainable development ability 0001:000090
-    sustainable development ability sda 0001:000090
-evaluation and planning 0001:000082
-    evacuation planning 0001:000000
-manufacturing implementations 0001:000081
-    lean manufacturing implementation 0001:000007
-manufactured products 0001:000081
-    remanufactured products 0001:000002
-sustainable development indicator 0001:000076
-    sustainable development indicators 0001:000076
-environmental indicator 0001:000076
-    environmental indicators 0001:000009
-renewable energy enterprise 0001:000071
-    renewable energy enterprises 0001:000071
-cooperative evolutionary game model 0001:000071
-    cooperative and evolutionary game model 0001:000071
-waste resources 0001:000058
-    waste of resources 0001:000001
-construction waste recycling industry chain 0001:000058
-    construction waste recycling industry 0001:000022
-air exchange rate 0001:000054
-    air exchange rates 0001:000054
-stock flow structures 0001:000053
-    stock and flow structures 0001:000003
-dilute aqueous solution 0001:000053
-    dilute aqueous solutions 0001:000053
-health worker 0001:000049
-    health workers 0001:000004
-health care waste management 0001:000049
-    health waste management 0001:000005
-health care waste 0001:000049
-    health care wastes 0001:000049
-reduced nonrevenue water coefficient 0001:000047
-    reduced non revenue water coefficient 0001:000047
-gasoline price 0001:000046
-    gasoline prices 0001:000046
-environmental regulation 0001:000046
-    environmental regulations 0001:000000
-endogenous and exogenous variables 0001:000046
-    exogenous and endogenous variables 0001:000000
-toxic substance 0001:000045
-    toxic substances 0001:000045
-production model 0001:000045
-    production models 0001:000045
-policy orientation 0001:000045
-    policy orientations 0001:000000
-karun river 0001:000045
-    karoun river 0001:000020
-user responses 0001:000044
-    user response 0001:000004
-sustainable river basin land use management 0001:000044
-    sustainable top river basin land use management 0001:000044
-markov chain model 0001:000044
-    markov chain models 0001:000044
-marketing campaign 0001:000044
-    marketing campaigns 0001:000044
-interaction behaviors 0001:000044
-    user interaction behavior 0001:000038
-    interaction behavior 0001:000038
-customer value 0001:000044
-    customer values 0001:000044
-zealand customs service 0001:000043
-    zealand customs service air 0001:000043
-marine sector 0001:000043
-    marine sectors 0001:000000
-mathematical relationship 0001:000041
-    mathematical relationships 0001:000000
-academic research unit 0001:000041
-    academic research units 0001:000041
-rebound effect 0001:000040
-    rebound effects 0001:000040
-haze pollution 0001:000040
-    haze pollutions 0001:000040
-software project 0001:000038
-    software projects 0001:000038
-knowledge based system 0001:000038
-    knowledge based systems 0001:000007
-construction safety management 0001:000037
-    construction site safety management 0001:000000
-urban underground complex 0001:000035
-    urban underground complexes 0001:000035
-monte carlo simulations 0001:000035
-    monte carlo simulation 0001:000000
-cost effective decision 0001:000034
-    cost effective decisions 0001:000034
-scenario designs 0001:000032
-    scenario design 0001:000002
-materials management 0001:000031
-    material cost management 0001:000000
-geological survey 0001:000031
-    geological surveys 0001:000031
-shanxi province 0001:000030
-    shaanxi province 0001:000003
-eco environmental quality 0001:000029
-    environmental quality 0001:000000
-aircraft accident 0001:000029
-    aircraft accidents 0001:000029
-occupational diseases 0001:000027
-    occupational disease 0001:000006
-mexican maquiladora 0001:000027
-    mexican maquiladoras 0001:000007
-business environments 0001:000027
-    business environment 0001:000002
-shaped utility function 0001:000026
-    s-shaped utility function 0001:000026
-host-parasite interaction 0001:000026
-    host-parasite interactions 0001:000026
-value stream map analysis 0001:000025
-    value stream analysis 0001:000021
-measured water contents 0001:000025
-    measured water content 0001:000004
-lay people 0001:000025
-    lay peoples 0001:000025
-computer based simulation 0001:000025
-    computer based simulations 0001:000025
-chemical incident 0001:000025
-    chemical incidents 0001:000025
-genetic optimization algorithms 0001:000024
-    genetic optimization algorithm 0001:000020
-equipment systems 0001:000024
-    equipment system 0001:000009
-customer expectation management 0001:000024
-    customer expectation managements 0001:000024
-bioenergy production 0001:000024
-    bioenergy productions 0001:000024
-workplace factors 0001:000023
-    workplace factor 0001:000000
-disabled person 0001:000023
-    disabled persons 0001:000023
-residential building 0001:000022
-    residential buildings 0001:000022
-public private partnership public-private partnership 0001:000022
-    public-private partnership public private partnership 0001:000010
-intrinsic relation 0001:000022
-    intrinsic relations 0001:000022
-carbon quota allocation method 0001:000022
-    carbon quota allocation methods 0001:000022
-information exchange 0001:000021
-    information exchanges 0001:000000
-formation process 0001:000021
+    dynamics sd modeling 0002:000021
+    dynamics sd model 0001:000000
+dynamics framework 0003:000028
+    dynamical system framework 0001:000004
+fleet operations 0003:000027
+    operational fleets 0001:000011
+asset management 0003:000026
+    asset manager 0001:000000
+simulation environment 0003:000025
+    environment simulation 0001:000020
+saline water 0003:000024
+    water salinity 0001:000018
+information processing 0003:000017
     information process 0001:000000
-dynamic evolution laws 0001:000021
-    dynamic evolution law 0001:000005
-vertically integrated company 0001:000020
-    vertically integrated oil company 0001:000020
-machine building enterprise 0001:000020
-    machine building enterprises 0001:000020
-green building 0001:000020
-    green buildings 0001:000020
-environmental demand 0001:000020
-    environmental demands 0001:000013
-transportation supply demand ratio 0001:000019
-    urban transportation supply demand ratio 0001:000019
-supply demand balance 0001:000019
-    supply and demand balance 0001:000002
-rumor maker 0001:000019
-    rumor makers 0001:000019
-reproductive effect 0001:000019
-    reproductive effects 0001:000019
-mass casualty incident 0001:000019
-    mass casualty incidents 0001:000019
-eu battery regulation 0001:000019
-    eu battery regulations 0001:000019
-dynamic sustainability balance scorecard methodology 0001:000019
-    dynamic sustainability balanced scorecard methodology 0001:000019
-drug related crime 0001:000019
-    drug related crimes 0001:000019
-balance method 0001:000019
-    balance methods 0001:000019
-water tariff 0001:000018
-    water tariffs 0001:000003
-water accounting 0001:000018
-    water accountings 0001:000018
-tariff structure 0001:000018
-    tariff structures 0001:000000
-positive and negative effect 0001:000018
-    positive and negative effects 0001:000018
-non-revenue water 0001:000018
-    non-revenue waters 0001:000018
-sponge city reconstruction 0001:000017
-    sponge city construction 0001:000010
-rabies vaccine 0001:000017
-    rabies vaccines 0001:000017
-r and d alliance 0001:000017
-    r and d alliances 0001:000017
-multivariate analysis 0001:000017
-    multivariant analysis 0001:000002
-dog disease 0001:000017
-    dog diseases 0001:000017
-carbon prices 0001:000017
-    carbon price 0001:000014
-ashton research station weather generator 0001:000017
-    ashton research station weather generator model 0001:000013
-sustainable water resources utilization 0001:000016
-    sustainable water resources utilization model 0001:000016
-mathematical framework 0001:000016
-    mathematical frameworks 0001:000016
-green growth 0001:000016
-    green growths 0001:000016
-global value chain 0001:000016
-    global value chains 0001:000016
-environmental consideration 0001:000016
-    environmental considerations 0001:000010
-economic decision 0001:000016
-    economic decisions 0001:000016
-climatic variation 0001:000016
-    climatic variations 0001:000016
-brazilian system 0001:000016
-    brazilian systems 0001:000016
-bioeconomic model 0001:000016
-    bio-economic model 0001:000016
-rock powder 0001:000015
-    rock powders 0001:000015
-risk element 0001:000015
-    risk elements 0001:000015
-neural network 0001:000015
-    neural networks 0001:000009
-    bp neural network 0001:000000
-n resource subsystem 0001:000015
-    resource subsystem 0001:000005
-n resource 0001:000015
-    n resources 0001:000015
-model predictions 0001:000015
-    model prediction 0001:000001
-market capitalization 0001:000015
-    market capitalisation 0001:000015
-lean managementtool 0001:000015
-    lean managementtools 0001:000015
-coupling coordination degree 0001:000015
-    coupling coordination degrees 0001:000015
-    coupling and coordination degree 0001:000007
-anaerobic condition 0001:000015
-    anaerobic conditions 0001:000015
-urban underground resource 0001:000014
-    urban underground resources 0001:000014
-single objective model 0001:000014
-    single objective models 0001:000014
-resource element 0001:000014
-    resource elements 0001:000014
-public health products 0001:000014
-    public health product rate 0001:000014
-parameter space 0001:000014
-    parameter spaces 0001:000014
-multiobjective programming model 0001:000014
-    sd multiobjective programming model 0001:000014
-multiobjective programming 0001:000014
-    sd multiobjective programming 0001:000014
-governmental investment 0001:000014
-    government investment 0001:000002
-control infectious and endemic diseases 0001:000014
-    controlling infectious and endemic diseases 0001:000014
-chain reaction 0001:000014
-    chain reactions 0001:000014
-carbon trade 0001:000014
-    carbon trades 0001:000014
-raw material supplier 0001:000013
-    raw material suppliers 0001:000009
-government officials 0001:000013
-    governmental officials 0001:000004
-fruit perishable food supply chain 0001:000013
-    perishable food supply chain 0001:000011
-downstream demand 0001:000013
-    downstream demands 0001:000013
-user-led innovation 0001:000012
-    user-led innovations 0001:000012
-software developments 0001:000012
-    software development 0001:000005
-productivity measure 0001:000012
-    productivity measures 0001:000012
+value co creation 0003:000014
+    value creation 0003:000008
+    creation value 0001:000007
+traffic management 0003:000014
+    traffic managers 0001:000005
+dynamic model analysis 0003:000013
+    analysis of system dynamics models 0001:000008
+deterioration models 0003:000013
+    deterioration modeling 0001:000000
+combined strategy 0003:000012
+    strategy combinations 0001:000001
+    combination strategies 0001:000001
+fair 0003:000011
+    fairness 0002:000003
+cognitive maps 0003:000011
+    cognitive mapping 0001:000072
+innovation network 0003:000010
+    networked innovation 0001:000002
+dynamic and complex systems 0003:000010
+    dynamically complex systems 0001:000016
+demand forecast 0003:000010
+    forecasted demand 0001:000006
+model improvement 0003:000009
+    improvement model 0001:000129
+marine functional zoning 0003:000009
+    marine functional zones 0002:000009
+expert scoring 0003:000009
+    expert score 0002:000001
+digest 0003:000009
+    digester 0001:000015
+predictive value 0003:000007
+    predicted values 0001:000000
+organic 0003:000007
+    organism 0001:000000
+volatility 0003:000006
+    volatilization 0001:000053
+regional scale 0003:000006
+    scale region 0001:000000
+land conversion 0003:000006
+    land use conversion 0001:000000
+enterprise innovation 0003:000005
+    innovation enterprises 0001:000004
+fit 0003:000004
+    fitness 0001:000004
+customer service 0003:000004
+    customer level service 0002:000005
+control measures 0003:000004
+    measurement and control 0001:000004
+air traffic control 0003:000004
+    air traffic controllers 0001:000002
+maturity 0003:000003
+    maturation 0002:000005
+interconnection 0003:000003
+    interconnectivity 0002:000035
+incentive policies 0003:000002
+    policy incentives 0002:000019
+enterprise production 0003:000001
+    production enterprises 0002:000026
+coupling model 0003:000001
+    coupled model 0001:000000
+contaminated water 0003:000001
+    water contamination 0001:000001
+learning effect 0003:000000
+    learning effectiveness 0001:000010
+automobile manufacture 0002:000102
+    automobile manufacturers 0001:000004
+extended value stream map 0002:000085
+    extended value stream mapping 0002:000085
+land management 0002:000079
+    land use management 0002:000075
+production management 0002:000077
+    productive management 0001:000008
+advertise 0002:000062
+    advertisement 0001:000059
+attractiveness 0002:000057
+    attraction 0001:000000
+alternative scenarios 0002:000053
+    scenarios describe alternatives 0001:000001
+orientation 0002:000052
+    orient 0002:000007
+production model 0002:000051
+    production modeling 0001:000000
+optimization model 0002:000050
+    modeling and optimization 0001:000001
+marketing activities 0002:000050
+    market activities 0001:000003
+refrigerator 0002:000048
+    refrigeration 0001:000003
+model base 0002:000045
+    based model 0001:000004
+internal relationships 0002:000043
+    international relationships 0001:000001
+productive maintenance 0002:000042
+    maintenance system productivity 0001:000012
+interpretive structural modeling 0002:000042
+    interpretive structural models 0001:000037
+    interpretative structural modeling modeling 0001:000037
+engineering constructions 0002:000042
+    construction engineering 0002:000028
+water use scenario 0002:000041
+    water scenarios 0001:000004
+sustainability modeling 0002:000035
+    sustainability models 0001:000035
+    modeling sustainable 0001:000008
+    sustainable model 0001:000002
+integrated system dynamics model 0002:000035
+    dynamic integrated model 0001:000002
+risk behavior 0002:000034
+    behavioral risks 0001:000001
+dimensional 0002:000034
+    dimensionality 0001:000000
+sediment 0002:000033
+    sedimentation 0001:000003
+simulation test 0002:000030
+    simulation and testing 0001:000001
+consultation 0002:000029
+    consultant 0001:000000
+probability prediction 0002:000025
+    predicted probability 0001:000024
+interaction process 0002:000023
+    interactive process 0001:000001
+production plan 0002:000021
+    production planning 0001:000001
+corporation 0002:000021
+    corporate 0001:000006
+mineral 0002:000020
+    mineralization 0001:000105
+    miner 0001:000000
+epidemic model 0002:000020
+    epidemic modeling 0002:000007
+sensitivity model 0002:000019
+    model sensitivity 0001:000004
+time unit 0002:000017
+    unit time 0001:000002
+immunity 0002:000017
+    immunization 0001:000005
+dynamics modeling methodology 0002:000016
+    dynamic model methodology 0001:000023
+dynamics model structure 0002:000016
+    dynamic structure model 0001:000001
+recovery delay 0002:000015
+    delay recovery 0001:000011
+food production 0002:000015
+    food products 0001:000004
+computational simulation 0002:000015
+    simulation computer 0001:000008
+    computation and simulation 0001:000003
+    computing simulation 0001:000002
+plastic 0002:000014
+    plasticity 0001:000001
+productivity improvement 0002:000013
+    products improvement 0001:000029
+planning years 0002:000013
+    year plan 0002:000001
+mobility 0002:000013
+    mobile 0001:000001
+coupled systems 0002:000013
+    coupling systems 0002:000009
+dynamic flows 0002:000012
+    dynamics system flow 0001:000003
+internal laws 0002:000011
+    international law 0001:000001
+structure and dynamics 0002:000010
+    dynamic structure 0001:000005
+    structural dynamics 0001:000001
+safety behaviors 0002:000010
+    behavior safety 0001:000002
+vegetable 0002:000009
+    vegetation 0002:000003
+social network 0002:000009
+    social networking 0001:000006
+model equation 0002:000009
+    modeling equations 0001:000000
+energy generation 0002:000009
+    generated energy 0001:000001
+electric equipment 0002:000009
+    electrical and electric equipments 0001:000008
+causality model 0002:000009
+    causality modeling 0001:000001
+analytic hierarchy process entropy weight method method 0002:000009
+    analytic hierarchy process entropy weighting method 0001:000001
+efficiency models 0002:000008
+    model efficiency 0001:000002
+dairy farming 0002:000008
+    dairy farm 0001:000008
+vensim dynamic model 0002:000007
+    vensim system dynamics model 0001:000001
+sensitive parameters 0002:000007
+    parameter sensitivities 0001:000003
+    sensitivity parameter 0001:000001
+popularity 0002:000007
+    popularization 0002:000005
+execution 0002:000007
+    executive 0002:000005
+systems thinking approach 0002:000006
+    systemic thinking approach 0001:000000
+flow diagram model 0002:000006
+    model of system flow diagrams 0001:000009
+adaptive strategies 0002:000006
+    adaptation strategies 0001:000000
+simulation output 0002:000005
+    simulated outputs 0001:000009
+model uncertainty 0002:000005
+    modeling uncertainties 0002:000002
+medication 0002:000005
+    medical 0001:000000
+interview survey 0002:000005
+    interviewed surveys 0001:000010
+waste processing 0002:000004
+    process waste 0001:000008
+product operations 0002:000004
+    productivity operation 0001:000012
+policy alternatives 0002:000004
+    alternative policy 0002:000000
+economic productivity 0002:000004
+    economic production 0001:000018
+capital cost 0002:000004
+    cost of capital 0001:000003
+severe accidents 0002:000003
+    severe fire accidents 0001:000006
+integrated data 0002:000003
+    data integration 0001:000006
+hospital cost 0002:000003
+    hospitalization cost 0001:000000
+enterprise manager 0002:000003
+    enterprise management 0001:000003
+operation model 0002:000002
+    operations modeling 0002:000002
+equation set 0002:000002
+    equation setting 0001:000018
+dynamic predictions 0002:000002
+    dynamic predictive 0001:000022
+    dynamic predictability 0001:000000
+cost engineering 0002:000002
+    engineering cost 0001:000000
+year horizon 0002:000001
+    horizon year 0001:000003
+household income 0002:000001
+    income households 0001:000000
+functional model 0002:000001
+    model functionality 0001:000000
+executable modeling 0002:000001
+    executable models 0002:000001
+evolution model 0002:000001
+    evolution modeling 0001:000000
+development planning 0002:000001
+    development plans 0001:000000
+simulation prediction 0002:000000
+    predictive simulation 0001:000008
+    prediction and simulation 0001:000008
+risks controls 0002:000000
+    control risks 0001:000004
+railway engineering 0002:000000
+    railway engineers 0001:000000
+product profit 0002:000000
+    production and profitabilities 0001:000045
+original model 0002:000000
+    model originality 0001:000000
+housing market 0002:000000
+    house market 0001:000000
+graduate student 0002:000000
+    student graduates 0001:000001
+dynamic simulation analysis 0002:000000
+    simulation analysis of system dynamics 0001:000003
+developed economy 0001:000225
+    developing economy 0001:000001
+urban policy 0001:000148
+    urbanization policy 0001:000148
+skilled modelers 0001:000128
+    modeling skills 0001:000003
+mechanism optimization 0001:000098
+    optimization mechanism 0001:000003
+dynamics evolution model 0001:000098
+    dynamics dynamic evolution model 0001:000010
+nexus modeling 0001:000082
+    nexus model 0001:000001
+modeling and analysis 0001:000081
+    analysis model 0001:000032
+    model analysis 0001:000008
+    modeling analysis 0001:000000
+sustainable plan 0001:000080
+    sustainable planning 0001:000000
+developed tourism 0001:000076
+    tourism development 0001:000031
+carbon energy transformation 0001:000075
+    energy low carbon transformation 0001:000002
+logic design 0001:000072
+    design logic 0001:000000
+management technologies 0001:000060
+    technological management 0001:000000
+professional training 0001:000059
+    training professionals 0001:000001
+occupancy 0001:000054
+    occupation 0001:000001
+    occupational 0001:000000
+minute ventilations 0001:000054
+    minute by minute ventilation 0001:000054
+electricity market model 0001:000053
+    electricity market modeling 0001:000053
+hybrid system dynamics 0001:000050
+    hybrid dynamical 0001:000004
+dynamics approach and vensim model 0001:000047
+    vensim system dynamics modeling approach 0001:000000
+price dynamics 0001:000046
+    dynamic pricing 0001:000000
+prediction analysis 0001:000045
+    predictive analysis 0001:000001
+    prediction and analysis 0001:000001
+object orientation 0001:000044
+    object oriented 0001:000022
+government outcomes 0001:000043
+    governance outcomes 0001:000003
+exhaustible resource 0001:000043
+    resource exhaustion 0001:000004
+engineering innovations 0001:000041
+    innovation engines 0001:000008
+term system behavior 0001:000040
+    term behavior 0001:000001
+stochasticity 0001:000040
+    stochastic 0001:000001
+management simulations 0001:000040
+    management simulators 0001:000002
+ecosystem modeling 0001:000040
+    ecosystem model 0001:000003
+site construction 0001:000037
+    construction sites 0001:000021
+model networks 0001:000037
+    network model 0001:000003
+sustainable enterprise simulation models 0001:000035
+    sustainable enterprise modeling and simulation 0001:000035
+iteration 0001:000035
+    iterator 0001:000000
+dynamic scenario modeling 0001:000035
+    dynamic model scenario 0001:000000
+individual-based model 0001:000033
+    individual-based modeling 0001:000033
+critical materials 0001:000031
+    material criticality 0001:000031
+investment ratios 0001:000030
+    invest ratio 0001:000003
+field research 0001:000030
+    fields of research 0001:000003
+commercial and social value 0001:000030
+    commercial or social value 0001:000030
+market competition 0001:000029
+    market competitiveness 0001:000006
+past few years 0001:000027
+    past year 0001:000001
+participants active participation 0001:000027
+    active participation 0001:000004
+water management model 0001:000024
+    water management modeling 0001:000024
+simulation design 0001:000024
+    design and simulation 0001:000001
+mountain valley 0001:000024
+    valley mountains 0001:000024
+experience design 0001:000024
+    design of experiments 0001:000005
+models psychological 0001:000023
+    psychological model 0001:000023
+simulation interaction 0001:000022
+    interactive simulations 0001:000003
+object oriented model 0001:000022
+    object oriented modeling 0001:000022
+marginal profits 0001:000022
+    profit margin 0001:000001
+purposefulness 0001:000020
+    purposeful 0001:000001
+detachment 0001:000020
+    detachability 0001:000012
+navigator 0001:000019
+    navigation 0001:000000
+command 0001:000019
+    commander 0001:000004
+urban transportation system structure 0001:000018
+    urban transport structure 0001:000000
+motorization 0001:000018
+    motor 0001:000004
+model advantages 0001:000017
+    advantageous model 0001:000002
+animal model 0001:000017
+    model animal 0001:000005
+network simulation 0001:000016
+    networks and simulation 0001:000000
+economic decisions 0001:000016
+    economical decisions 0001:000009
+supplies inputs 0001:000015
+    input supply 0001:000000
+intervention targets 0001:000014
+    intervention targeting 0001:000001
+    targeted interventions 0001:000000
+grid cells 0001:000014
+    cell grid 0001:000002
+geographic region 0001:000014
+    geographically different regions 0001:000001
+data processing 0001:000014
+    processed data 0001:000002
+port city coupled 0001:000013
+    port city coupling 0001:000013
+forecasting modeling 0001:000013
+    forecasting model 0001:000000
+    forecast model 0001:000000
 policy reform 0001:000012
-    policy reforms 0001:000012
-multifactor productivity measure 0001:000012
-    multifactor productivity measures 0001:000012
-government interventions 0001:000012
-    government intervention 0001:000001
-communication mechanism 0001:000012
-    communication mechanisms 0001:000012
-brownfield process 0001:000012
-    p brownfield process 0001:000012
-organic pollutant 0001:000011
-    organic pollutants 0001:000011
-market scenario 0001:000011
-    market scenarios 0001:000000
-hydrodynamic dispersion 0001:000011
-    hydrodynamic dispersions 0001:000011
-faculty concern 0001:000011
-    faculty concerns 0001:000011
-disability adjusted life year 0001:000011
-    disability adjusted life years 0001:000011
-anti-infective agent 0001:000011
-    anti-infective agents 0001:000011
-transportation investment 0001:000010
-    transportation investments 0001:000010
-social capital 0001:000010
-    social capita 0001:000002
-quantitative test scenarios 0001:000010
-    quantitative scenarios 0001:000006
-irrigation and drainage networks 0001:000010
-    kosar irrigation and drainage network 0001:000010
-changzhou city 0001:000010
-    hangzhou city 0001:000000
-air pollution sources 0001:000010
-    pollution sources 0001:000004
-wind-coal enriched area 0001:000009
-    wind-coal enriched areas 0001:000009
-time frame 0001:000009
-    time frames 0001:000008
-risk influencing factors analysis 0001:000009
-    influencing factors analysis 0001:000001
-national productions 0001:000009
-    national tin production 0001:000000
-key variable analysis 0001:000009
-    variable analysis 0001:000000
-inventory fluctuation 0001:000009
-    inventory fluctuations 0001:000006
-insider threat 0001:000009
-    insider threats 0001:000009
-insider attack 0001:000009
-    insider attacks 0001:000009
-energy generations 0001:000009
-    energy generation 0001:000000
-concentralized distribution logistics 0001:000009
+    reform policy 0001:000012
+scientific community 0001:000011
+    scientific communication 0001:000000
+recycling products 0001:000011
+    products recycler 0001:000009
+regional model 0001:000010
+    regional modeling 0001:000010
+performance evaluation model 0001:000010
+    model performance evaluation 0001:000005
+operation law 0001:000010
+    operating law 0001:000001
+medical elderly care integrated 0001:000010
+    medical elderly care integration 0001:000010
+historical case information 0001:000010
+    historical information 0001:000003
+economic profitability 0001:000010
+    economic profit 0001:000001
+cultivated crops 0001:000010
+    crop cultivation 0001:000002
+recycled parts recyclers 0001:000009
+    recycling parts recyclers 0001:000009
+    recycling parts 0001:000002
+groundwater modeling 0001:000009
+    groundwater models 0001:000009
+    groundwater level modeling 0001:000008
+global 0001:000009
+    globalization 0001:000000
+formalization process 0001:000009
+    formal process 0001:000000
+dimensional modeling 0001:000009
+    dimensional models 0001:000001
+criticality 0001:000009
+    critic 0001:000001
+centralized distribution logistics plan 0001:000009
     centralized distribution logistics planning 0001:000009
-    centralized distribution logistics plan 0001:000009
-coastal groundwater dependent irrigation agriculture 0001:000009
-    coastal groundwater dependent irrigation agriculture systems 0001:000009
-australian agriculture 0001:000009
-    australian agricultures 0001:000009
-water energy food nexus 0001:000008
-    water energy and food nexus 0001:000008
-sustainable passion fruit agro industry supply chain 0001:000008
-    sustainable msme passion fruit agro industry supply chain 0001:000008
-supply chain performance measurement model 0001:000008
-    supply chain performance measurements 0001:000000
-supply and demand ratio 0001:000008
-    supply demand ratio 0001:000000
-sinkhole event 0001:000008
-    sinkhole events 0001:000008
+attack 0001:000009
+    attacker 0001:000009
+water utilization 0001:000008
+    water utility 0001:000005
+transportation distance 0001:000008
+    distance transportation 0001:000000
+term plans 0001:000008
+    term planning 0001:000002
 research problem 0001:000008
-    research problems 0001:000000
-quantitative and qualitative analysis 0001:000008
-    qualitative and quantitative analysis 0001:000000
-predictive simulation 0001:000008
-    predictive simulations 0001:000008
-passion fruit agro industry supply chain 0001:000008
-    passion fruit agro industry supply chain actors 0001:000008
-passion fruit agro industry 0001:000008
-    msme passion fruit agro industry 0001:000008
-operation needs 0001:000008
-    operational needs 0001:000002
-hybrid manufacturing system 0001:000008
-    hybrid manufacturing systems 0001:000008
-general contractor 0001:000008
-    general contractors 0001:000008
-gaseous emission 0001:000008
-    gaseous emissions 0001:000008
-electrical and electric equipments 0001:000008
-    waste electrical and electric equipment 0001:000008
-container volume 0001:000008
-    container volumes 0001:000008
-urban waterlogging disaster 0001:000007
-    urban waterlogging disasters 0001:000007
-security risk management 0001:000007
-    security risk managements 0001:000007
-safety participation 0001:000007
-    safety participations 0001:000007
-safety compliance 0001:000007
-    safety compliances 0001:000007
-research model 0001:000007
-    research models 0001:000007
+    problems research 0001:000000
+product flow 0001:000008
+    production flows 0001:000000
+internal logic relationships 0001:000008
+    internal logical relationship 0001:000001
+integrated activities 0001:000008
+    integration activities 0001:000000
+developed tool 0001:000008
+    developing tools 0001:000002
+continuous system simulation 0001:000008
+    continuous simulation 0001:000000
 remanufacture profit 0001:000007
     remanufacturer profit 0001:000007
-power construction project 0001:000007
-    power construction projects 0001:000007
-operation management approach 0001:000007
-    operational management approach 0001:000003
-operating condition 0001:000007
-    operating conditions 0001:000007
-online lending platform 0001:000007
-    online lending platforms 0001:000007
-navroud asalem watershed 0001:000007
-    navroud assalem watershed 0001:000007
-inspection error rate 0001:000007
-    inspection error rates 0001:000007
-    inspection error rate b 0001:000007
-innovation result 0001:000007
-    innovation results 0001:000007
-fuzzy system 0001:000007
-    fuzzy systems 0001:000001
-fuzzy decision making trial and evaluation laboratory technique 0001:000007
-    decision making trial and evaluation laboratory technique 0001:000003
-flow rate variable 0001:000007
-    flow rate variables 0001:000000
-dimensional advanced manufacturing technology 0001:000007
-    multidimensional advanced manufacturing technology 0001:000007
+model resilience 0001:000007
+    resilience modeling 0001:000007
 cross side network effect 0001:000007
     cross network effects 0001:000002
-analytic hierarchy process entropy weight method method 0001:000007
-    analytic hierarchy process entropy weight method 0001:000002
-water management approach 0001:000006
-    water management approaches 0001:000006
-vehicle registration 0001:000006
-    new vehicle registration 0001:000006
+coupling factor 0001:000007
+    coupled factors 0001:000001
+target measures 0001:000006
+    targeted measures 0001:000000
+systemic behaviors 0001:000006
+    behavioral systems 0001:000000
+study objective 0001:000006
+    study object 0001:000000
 stakeholder engagement 0001:000006
     stakeholder re engagement 0001:000003
-semantic city models 0001:000006
-    semantic 3d city models 0001:000006
-    semantic 3d city model 0001:000006
-project duration 0001:000006
-    project durations 0001:000006
-product development strategy 0001:000006
-    lean product development strategy 0001:000006
-performance outcome 0001:000006
-    performance outcomes 0001:000006
-oil gas supply chain 0001:000006
-    oil and gas supply chain 0001:000006
-    gas supply chain 0001:000005
-numerical method 0001:000006
-    numerical methods 0001:000001
-medical equipment maintenance 0001:000006
-    medical equipment maintenance cost 0001:000006
-inventory models 0001:000006
-    sd inventory models 0001:000000
-intelligent construction technology 0001:000006
-    intelligent construction technology shows 0001:000006
-geospatial data 0001:000006
-    geo-spatial data 0001:000006
-energy vehicle mandate policy 0001:000006
-    new energy vehicle mandate policy 0001:000006
-diabetic patient 0001:000006
-    diabetic patients 0001:000006
-construction field 0001:000006
-    construction fields 0001:000006
-vehicle factor 0001:000005
-    vehicle factors 0001:000000
-urban ecosystem 0001:000005
-    urban ecosystems 0001:000005
-truck driver shortage 0001:000005
-    truck driver shortages 0001:000005
-truck driver 0001:000005
-    truck drivers 0001:000005
-traffic accident 0001:000005
-    traffic accidents 0001:000005
-think tank intelligence service 0001:000005
-    think tank intelligence service mode 0001:000005
-surface irrigation system 0001:000005
-    surface irrigation systems 0001:000005
-supply chain contract 0001:000005
-    supply chain contracts 0001:000005
-seismic secondary disaster 0001:000005
-    seismic secondary disasters 0001:000005
-omni channel distribution 0001:000005
-    omni channel distributions 0001:000005
-nuclear power equipment 0001:000005
-    nuclear power equipments 0001:000005
-metallic mineral 0001:000005
-    metallic minerals 0001:000005
-intermittent irrigation 0001:000005
-    intermittent irrigations 0001:000005
-interaction effect 0001:000005
-    integration effect 0001:000000
-green residential building 0001:000005
-    green residential buildings 0001:000005
-economic subsystem 0001:000005
-    economic subsystems 0001:000003
-driver shortage 0001:000005
-    driver shortages 0001:000005
-design condition 0001:000005
-    design conditions 0001:000005
-dental material 0001:000005
-    dental materials 0001:000005
-demand profiles 0001:000005
-    demand profile 0001:000000
-corn agroindustry 0001:000005
-    corn agro-industry 0001:000005
-combination model 0001:000005
-    combination models 0001:000005
-biomass residue 0001:000005
-    biomass residues 0001:000005
-agro industrial environments 0001:000005
-    industrial environments 0001:000002
-simulation output 0001:000004
-    simulation outputs 0001:000001
+saline groundwater 0001:000006
+    groundwater salinities 0001:000000
+production analysis 0001:000006
+    productivity analysis 0001:000000
+modeled data 0001:000006
+    data modeling 0001:000002
+marine ranches 0001:000006
+    marine ranching 0001:000006
+management performance 0001:000006
+    performance management 0001:000000
+energy efficiency modeling 0001:000006
+    energy efficiency model 0001:000002
+diabetes patients 0001:000006
+    diabetic patient 0001:000006
+design and planning 0001:000006
+    design planning 0001:000004
+crop field 0001:000006
+    cropped field 0001:000003
+    field crops 0001:000002
+urban system modeling 0001:000005
+    urban models 0001:000000
+urban metabolic 0001:000005
+    urban metabolism 0001:000005
+sustainable agricultural policies 0001:000005
+    sustainability agriculture policy 0001:000001
+scenario land 0001:000005
+    land use scenarios 0001:000000
+national governance 0001:000005
+    national government 0001:000001
+national development 0001:000005
+    developing nations 0001:000000
+farmers benefits 0001:000005
+    benefit farmers 0001:000000
+equipment leasing 0001:000005
+    leased equipment 0001:000005
+energy system modeling 0001:000005
+    energy system models 0001:000005
+    energy models 0001:000004
+dynamics based analysis 0001:000005
+    analysis based on system dynamics 0001:000001
+diesel generation 0001:000005
+    diesel generators 0001:000005
+control factors 0001:000005
+    factor controlling 0001:000004
+continuous time model 0001:000005
+    continuous time modeling 0001:000005
+atraumatic restorative treatment 0001:000005
+    atraumatic restorative treatment restoration 0001:000005
+start dates 0001:000004
+    starting date 0001:000001
+simulation effect 0001:000004
+    effect simulation 0001:000003
+simulated values 0001:000004
+    simulation value 0001:000000
 risk interaction 0001:000004
-    risk interactions 0001:000004
-restrictive policy instrument 0001:000004
-    restrictive policy instruments 0001:000004
-residual ratio 0001:000004
-    residual ratios 0001:000004
-remanufacturing reverse supply chain 0001:000004
-    stage remanufacturing reverse supply chain 0001:000004
-optimistic scenario 0001:000004
-    optimistic scenarios 0001:000004
-nonlinear dynamical systems 0001:000004
-    nonlinear dynamic systems 0001:000001
-national electricity market 0001:000004
-    national electricity markets 0001:000004
-medical equipment 0001:000004
-    medical equipments 0001:000004
-manufacturing concepts 0001:000004
-    lean manufacturing concept 0001:000004
-irrigation scheme 0001:000004
-    irrigation schemes 0001:000004
-intelligent simulation 0001:000004
-    intelligent simulations 0001:000004
-innovation systems 0001:000004
-    innovation system 0001:000000
-hydrologic components 0001:000004
-    hydrologic components e 0001:000004
-hybrid dynamical system 0001:000004
-    hybrid dynamical systems 0001:000004
-human decision 0001:000004
-    human decisions 0001:000004
-human agent 0001:000004
-    human agents 0001:000004
-human action 0001:000004
-    human actions 0001:000004
-household sector electricity demand 0001:000004
-    household sector electricity demand model 0001:000004
-household sector 0001:000004
-    household sectors 0001:000004
-highway project portfolio construction schedule risk 0001:000004
-    highway project portfolio construction schedule risks 0001:000004
-highway project portfolio construction 0001:000004
-    highway project portfolio construction risks 0001:000004
-highspeed rail passenger transport 0001:000004
-    high-speed rail passenger transport 0001:000004
-ground water resource 0001:000004
-    ground water resources 0001:000004
-field experiment 0001:000004
-    field experiments 0001:000004
-emergency resources allocation 0001:000004
-    emergency resource allocation route 0001:000004
-electricity energy sector 0001:000004
-    electricity energy sub sector 0001:000000
-educational program 0001:000004
-    educational programs 0001:000004
-economic services 0001:000004
-    economic service 0001:000000
-determined thresholds 0001:000004
-    determine risk thresholds 0001:000000
-construction schedule 0001:000004
-    construction schedules 0001:000004
-commission on irrigation and drainage 0001:000004
-    commission on irrigation and drainage aims 0001:000004
-cloud platform 0001:000004
-    cloud platforms 0001:000004
-chongqing three gorges reservoir 0001:000004
-    chongqing three gorges reservoir area 0001:000004
-basin wide holistic integrated water assessment 0001:000004
-    basin wide holistic integrated water assessment model 0001:000004
-architectural designer 0001:000004
-    architectural designers 0001:000004
-analysis of data 0001:000004
-    analysis data 0001:000000
-agricultural production system 0001:000004
-    agricultural production systems 0001:000004
-action representation 0001:000004
-    action representations 0001:000004
-supply chain risk management 0001:000003
-    food supply chain risk management 0001:000003
-social interest housing 0001:000003
-    social interest housing vis 0001:000003
-sino europe international railway freight 0001:000003
-    sino europe international railway freight demand 0001:000003
-sea-rail intermodal transport 0001:000003
-    sea-rail intermodal transports 0001:000003
-responsive drip irrigation 0001:000003
-    responsive drip irrigationf 0001:000003
-reliability assessment 0001:000003
-    reliability assessments 0001:000003
-refrigerated containers 0001:000003
-    ship refrigerated container 0001:000003
-programming languages 0001:000003
-    java programming language 0001:000001
-    c++ programming language 0001:000000
-municipal solid waste generation rates 0001:000003
-    higher municipal solid waste generation rate 0001:000003
-multi agent collaborative governance models 0001:000003
-    compact multi agent collaborative governance model 0001:000003
-model replicates 0001:000003
-    sd model replicates 0001:000003
-logistics industry development policy 0001:000003
-    logistics industry development policy model 0001:000003
-irrigation energy productivity 0001:000003
-    farm irrigation energy productivity 0001:000003
-interactive simulations 0001:000003
-    interactive simulation tool 0001:000003
-    sd iterative simulations 0001:000000
-heilongjiang river 0001:000003
-    heilongjiang rivers 0001:000003
-green management 0001:000003
-    green managements 0001:000000
-excitation mechanism 0001:000003
-    excitation mechanisms 0001:000003
-enterprise managers 0001:000003
-    enterprise manager 0001:000000
-electricity demand growth projection 0001:000003
-    electricity demand growth projections 0001:000003
-domestic researches 0001:000003
-    domestic researchers 0001:000003
-design and manufacturing sustainability 0001:000003
-    design and manufacturing sustainability model 0001:000003
-dangerous cargo transportation 0001:000003
-    road dangerous cargo transportation 0001:000003
-crop irrigation requirement 0001:000003
-    irrigation requirement 0001:000002
-complementary asset 0001:000003
-    complementary assets 0001:000003
-carbon label 0001:000003
-    carbon labels 0001:000003
-autonomous vehicle technology innovation ecosystem 0001:000003
-    china autonomous vehicle technology innovation ecosystem 0001:000003
-autonomous vehicle 0001:000003
-    autonomous vehicles 0001:000003
-assembly error transfer accumulation 0001:000003
-    assembly error transfer accumulation model 0001:000003
-assembly dimension chain 0001:000003
-    assembly dimension chains 0001:000003
-waterenergyfoodcarbon nexus 0001:000002
-    water-energy-food-carbon nexus 0001:000002
-water deficit ratio 0001:000002
-    water deficit ratios 0001:000002
-unsustainable groundwater management 0001:000002
-    sustainable groundwater management 0001:000000
-transfer of knowledge 0001:000002
-    transfer knowledge 0001:000000
-tank cascade system 0001:000002
-    tank cascade systems 0001:000002
-subway tunnel 0001:000002
-    subway tunnels 0001:000002
-socio-economic system 0001:000002
-    socio-economic systems 0001:000000
-safety behavior risk event 0001:000002
-    safety behavior risk events 0001:000002
-runway accident 0001:000002
-    runway accidents 0001:000002
-regulatory level 0001:000002
-    regulatory levels 0001:000002
-primary sector gross domestic production 0001:000002
-    sectoral gross domestic production 0001:000000
-prefabricated construction innovation network 0001:000002
-    prefabricated construction innovation network model 0001:000002
-pid controller 0001:000002
-    pid controllers 0001:000002
-pan tourism urbanization mode 0001:000002
-    pan tourism urbanization model 0001:000002
-organizational socialization process 0001:000002
-    organizational socialization process model 0001:000002
-networked innovation 0001:000002
-    networked innovations 0001:000002
-network information system 0001:000002
-    network information systems 0001:000002
-negative intra group network effect 0001:000002
-    negative inter group network effect 0001:000002
-model problem 0001:000002
-    model problems 0001:000002
-managerial decision 0001:000002
-    managerial decisions 0001:000001
-letter of credit settlements 0001:000002
-    letter of credit settlement risk 0001:000002
-inventory amplification 0001:000002
-    inventory amplifications 0001:000002
-internal operation mechanism 0001:000002
-    internal operating mechanism 0001:000000
-human-wildlife interaction 0001:000002
-    human-wildlife interactions 0001:000002
-health expenditure 0001:000002
-    health expenditures 0001:000002
-freshwater ecosystem 0001:000002
-    freshwater ecosystems 0001:000002
-failure causes 0001:000002
-    failure cases 0001:000000
-engineering asset management 0001:000002
-    engineering asset managements 0001:000002
-efficiency improvements 0001:000002
-    efficiency improvement 0001:000001
-economic-policy making scenario 0001:000002
-    economic-policy making scenarios 0001:000002
-dynamic engineering management-project management 0001:000002
-    dynamics sd engineering management-project management 0001:000002
-decision making references 0001:000002
-    decision making reference 0001:000001
-cross chain inventory collaboration 0001:000002
-    cross chain inventory collaboration model 0001:000002
-credit and capital risk 0001:000002
-    credit and capital risks 0001:000002
-controller algorithm 0001:000002
-    pid controller algorithm 0001:000002
-control model 0001:000002
-    control models 0001:000002
-competitive enterprise 0001:000002
-    competitive enterprises 0001:000002
-colorectal cancer screening 0001:000002
-    colorectal cancer screening plan 0001:000002
-cobb douglas production function 0001:000002
-    cobb douglas production functions 0001:000000
-charging infrastructure 0001:000002
-    charging infrastructures 0001:000002
-chain of tank 0001:000002
-    chain of tanks 0001:000002
-bayesian networks 0001:000002
-    bayesian network 0001:000001
-arid and semiarid regions 0001:000002
-    arid and semi-arid regions 0001:000002
-air traffic flow 0001:000002
-    air traffic flows 0001:000002
-agricultural input 0001:000002
-    agricultural inputs 0001:000002
-added value 0001:000002
-    added values 0001:000002
-water treatment plants 0001:000001
-    water treatment plant 0001:000000
-water ecological carrying capacity evaluation 0001:000001
-    water ecological carrying capacity evaluation model 0001:000000
-uncertainty problem 0001:000001
-    uncertainty problems 0001:000001
-training factor 0001:000001
-    training factors 0001:000001
-system performance measures 0001:000001
-    hud system performance measures 0001:000001
-steel enterprise 0001:000001
-    steel enterprises 0001:000001
-software outsourcing enterprise 0001:000001
-    software outsourcing enterprises 0001:000001
-smart grid system 0001:000001
-    smart grid systems 0001:000001
-ship compressor 0001:000001
-    ship compressors 0001:000001
-service quality dimensions 0001:000001
-    e service quality dimensions 0001:000001
-rule curve 0001:000001
-    rule curves 0001:000000
-renewable energy quota 0001:000001
-    renewable energy quotas 0001:000001
-regional logistics information platform service innovation 0001:000001
-    regional logistics information platform service innovation factors 0001:000001
-qualitative simulation model 0001:000001
-    quantitative simulation model 0001:000000
-process engineering 0001:000001
-    process reengineering 0001:000001
-prefabricated buildings phytoremediation 0001:000001
-    prefabricated buildings phytoremediation model 0001:000001
-prefabricated building incentive policies 0001:000001
-    prefabricated building incentive policies impact 0001:000001
-power structure 0001:000001
-    power structures 0001:000001
-platform system 0001:000001
-    platform systems 0001:000001
-obsolete mobile phone 0001:000001
-    obsolete mobile phones 0001:000001
-natural gas vehicle 0001:000001
-    natural gas vehicles 0001:000001
-mobile phone 0001:000001
-    mobile phones 0001:000001
-mitigation efforts 0001:000001
-    mitigation effort 0001:000000
-mining sequence 0001:000001
-    mining sequences 0001:000001
-medication administration error 0001:000001
-    medication administration errors 0001:000001
-line loss rate 0001:000001
-    line loss rates 0001:000001
-lifeline system 0001:000001
-    lifeline systems 0001:000001
-land transportation and climate change 0001:000001
-    link land transportation and climate change 0001:000001
-knowledge transmission 0001:000001
-    knowledge transmissions 0001:000001
-knowledge transfer subject 0001:000001
-    knowledge transfer subjects 0001:000001
-irrigated land area 0001:000001
-    irrigated land areas 0001:000000
-iron steel interfaces 0001:000001
-    iron and steel interface 0001:000001
-interorganizational information system diffusion 0001:000001
-    inter organizational information system diffusion 0001:000001
-internal dynamic 0001:000001
-    internal dynamics 0001:000001
-industrial investment 0001:000001
-    industrial investments 0001:000001
-ideological and political education 0001:000001
-    ideological and political educations 0001:000001
-government guidance 0001:000001
-    government guidances 0001:000001
-geospatial analysis 0001:000001
-    geo-spatial analysis 0001:000001
-geological model 0001:000001
-    geological models 0001:000001
-forestry carbon sink project 0001:000001
-    forestry carbon sink projects 0001:000001
-force pressure resistance state response 0001:000001
-    force pressure resistance state response model 0001:000001
-express logistics service 0001:000001
-    express logistics services 0001:000001
-expert score 0001:000001
-    expert scores 0001:000000
-environmental outcome 0001:000001
-    environmental outcomes 0001:000001
-electric motorcycle 0001:000001
-    electric motorcycles 0001:000001
-economy energy environmental 0001:000001
-    economy energy environment 0001:000000
-dynamical risk assessment 0001:000001
-    dynamic risk assessment 0001:000000
-dr resource 0001:000001
-    dr resources 0001:000001
-design and operation 0001:000001
-    design and operations 0001:000001
-coupling effect 0001:000001
-    coupling effects 0001:000001
-costbenefit analysis 0001:000001
-    cost-benefits analysis 0001:000000
-consumer adoption 0001:000001
-    consumer adoptions 0001:000001
-combination weight 0001:000001
-    combination weights 0001:000001
-capacity factor 0001:000001
-    capacity factors 0001:000001
-branch model 0001:000001
-    branch models 0001:000001
-automobile product 0001:000001
-    automobile products 0001:000001
-agricultural industry cluster 0001:000001
-    agricultural industry clusters 0001:000001
-working temperature 0001:000000
-    working temperatures 0001:000000
-web-based service 0001:000000
-    web-based services 0001:000000
-water traffic crisis event 0001:000000
-    water traffic crisis events 0001:000000
-wastewater reuse system 0001:000000
-    wastewater reuse systems 0001:000000
-vehicle exhaust 0001:000000
-    vehicle exhausts 0001:000000
-variation order 0001:000000
-    variation orders 0001:000000
-uv system 0001:000000
-    uv systems 0001:000000
-urban online car hailing operation 0001:000000
-    urban online car hailing operation model 0001:000000
-turnover intention 0001:000000
-    turnover intentions 0001:000000
-transportation of inland river dangerous chemical 0001:000000
-    transportation of inland river dangerous chemicals 0001:000000
-transportation development ecological carrying capacity 0001:000000
-    city transportation development ecological carrying capacity 0001:000000
-technology organization environment 0001:000000
-    technology organization environment frame 0001:000000
-technological small and medium enterprises 0001:000000
-    technological small and medium enterprises effect 0001:000000
-technical interface 0001:000000
-    technical interfaces 0001:000000
-sustainable product design 0001:000000
-    sustainable product designs 0001:000000
-surgical patient 0001:000000
-    surgical patients 0001:000000
-supply chain risk 0001:000000
-    supply chain risks 0001:000000
-supplier concentration 0001:000000
-    supplier concentration sc 0001:000000
-sulfur isotope 0001:000000
-    sulfur isotopes 0001:000000
-structured questionnaire 0001:000000
-    structured questionnaires 0001:000000
-statistical method 0001:000000
-    statistical methods 0001:000000
-static impact factor 0001:000000
-    static impact factors 0001:000000
-space exploration 0001:000000
-    space explorations 0001:000000
-socioeconomic factors 0001:000000
-    socio-economic factors 0001:000000
-smart warehouse 0001:000000
-    smart warehouses 0001:000000
+    interaction risk 0001:000000
+production engineering 0001:000004
+    product engineering 0001:000002
+product demand 0001:000004
+    production demand 0001:000000
+middle school 0001:000004
+    middle or high school 0001:000004
+micro enterprises 0001:000004
+    micro and small enterprises 0001:000004
+maintenance plans 0001:000004
+    planned maintenance 0001:000000
+involved stakeholders 0001:000004
+    stakeholder involvement 0001:000002
+implemented model 0001:000004
+    model implementation 0001:000002
+    implementation models 0001:000001
+electricity demand forecasting 0001:000004
+    electricity demand forecasts 0001:000004
+crowdfunder 0001:000004
+    crowdfunding 0001:000004
+contingency 0001:000004
+    contingent 0001:000001
+composter 0001:000004
+    compost 0001:000001
+complexity in models 0001:000004
+    model complexes 0001:000000
+bank management 0001:000004
+    banks managers 0001:000001
+waste production 0001:000003
+    waste products 0001:000002
+technology commercializations 0001:000003
+    commercialize technologies 0001:000001
+governance strategies 0001:000003
+    government strategy 0001:000003
+energy distribution 0001:000003
+    distributed energy 0001:000000
+effect models 0001:000003
+    model effectiveness 0001:000000
+design parameters 0001:000003
+    parameter design 0001:000002
+component structure 0001:000003
+    structural components 0001:000000
+collaborative model 0001:000003
+    collaboration models 0001:000002
+adjustment pathways 0001:000003
+    pathway adjustment 0001:000003
+social responsibilities 0001:000002
+    socially responsible 0001:000000
+social psychological 0001:000002
+    social psychology 0001:000000
+retailers online 0001:000002
+    online retails 0001:000000
+management plan 0001:000002
+    management planning 0001:000002
+industrial innovation chain 0001:000002
+    industry chain and innovation chain 0001:000002
+human material risks 0001:000002
+    human and material risks 0001:000002
+engineering management 0001:000002
+    management engineering 0001:000000
+dynamic simulation and simulation results 0001:000002
+    dynamics simulation results 0001:000000
+disposed medicine 0001:000002
+    medicine disposal 0001:000002
+discrete 0001:000002
+    discreteness 0001:000000
+design and development 0001:000002
+    development designers 0001:000000
+bank profits 0001:000002
+    bank profitability 0001:000000
+prototype dynamics model 0001:000001
+    prototype system dynamics model 0001:000001
+power stabilization 0001:000001
+    power stabilized 0001:000001
+policy levers 0001:000001
+    lever policy 0001:000000
+objective management 0001:000001
+    management objectives 0001:000000
+miss event management 0001:000001
+    miss event managers 0001:000001
+logistics service evaluation 0001:000001
+    logistics service system evaluation 0001:000001
+housing demand 0001:000001
+    house demand 0001:000000
+ecological water 0001:000001
+    water ecology 0001:000001
+drainage control 0001:000001
+    controlled drainage 0001:000000
+controlment 0001:000001
+    controllability 0001:000000
+coagulant 0001:000001
+    coagulation 0001:000001
+change of time 0001:000001
+    change timing 0001:000000
+twitter marketing methods modeling 0001:000000
+    twitter marketing methods models 0001:000000
 simulation optimization model 0001:000000
+    simulation modeling and optimization 0001:000000
     simulation and optimization models 0001:000000
-simulation intervention 0001:000000
-    simulation interventions 0001:000000
-sharing economy 0001:000000
-    sharing econonmy 0001:000000
-sequential biological concentration 0001:000000
-    sequential biological concentration setup 0001:000000
-sea currents 0001:000000
-    sea currents e 0001:000000
-sales forecast 0001:000000
-    sales forecasts 0001:000000
-safety precaution 0001:000000
-    safety precautions 0001:000000
-safety control 0001:000000
-    safety controls 0001:000000
-rural logistics network 0001:000000
-    rural logistics networks 0001:000000
-rmb cross border settlement 0001:000000
-    cross border rmb settlement 0001:000000
-regional innovation system 0001:000000
-    regional innovation systems 0001:000000
-regional economic management 0001:000000
-    regional economical management 0001:000000
-regional branded agricultural product 0001:000000
-    regional branded agricultural products 0001:000000
-reference quality effect 0001:000000
-    reference quality effects 0001:000000
-railway project 0001:000000
-    railway projects 0001:000000
-queuing system 0001:000000
-    queuing systems 0001:000000
-pumping system 0001:000000
-    pumping systems 0001:000000
-public demand 0001:000000
-    public demands 0001:000000
-public cultural service 0001:000000
-    public cultural services 0001:000000
-psychological disorder 0001:000000
-    psychological disorders 0001:000000
-power generation right 0001:000000
-    power generation rights 0001:000000
-population deworming 0001:000000
-    key population deworming 0001:000000
-petri network 0001:000000
-    petri networks 0001:000000
-paving block 0001:000000
-    paving blocks 0001:000000
-passenger station 0001:000000
-    passenger stations 0001:000000
-owa operator 0001:000000
-    owa operators 0001:000000
-organization agility 0001:000000
-    organizational agility 0001:000000
-organic material 0001:000000
-    organic materials 0001:000000
-operation strategies 0001:000000
-    operational strategies 0001:000000
-operation conditions 0001:000000
-    cooperation conditions 0001:000000
-operation capacity 0001:000000
-    operational capacity 0001:000000
-online retail sale 0001:000000
-    online retail sales 0001:000000
-notopterus chitala fish pond 0001:000000
-    notopterus chitala fish ponds 0001:000000
-network operation 0001:000000
-    network operations 0001:000000
-network environment 0001:000000
-    network environments 0001:000000
-navigational risk factor 0001:000000
-    navigational risk factors 0001:000000
-multimodal transportation system 0001:000000
-    multimodal transportation systems 0001:000000
-metal cutting tool remanufacturing service mode 0001:000000
-    metal cutting tool remanufacturing service model 0001:000000
-maritime propulsion system 0001:000000
-    maritime propulsion systems 0001:000000
-maritime operation 0001:000000
-    maritime operations 0001:000000
-manned spaceflight space application 0001:000000
-    manned spaceflight space applications 0001:000000
+simulation analysis model 0001:000000
+    simulation modeling analysis 0001:000000
+reverse logistics model 0001:000000
+    reverse logistics modeling 0001:000000
+resilience cities 0001:000000
+    resilient cities 0001:000000
+project scenarios 0001:000000
+    scenario projections 0001:000000
+mega water transfer project 0001:000000
+    mega water transfer mega water transfer projects 0001:000000
+mediated modeler 0001:000000
+    mediation model 0001:000000
+    mediated modeling 0001:000000
 library smart service 0001:000000
-    library smart services 0001:000000
-ken target 0001:000000
-    ken targets 0001:000000
-intervention model 0001:000000
-    intervention models 0001:000000
-internal driving mechanism 0001:000000
-    internal driving mechanisms 0001:000000
-internal cause 0001:000000
-    internal causes 0001:000000
-intelligent maintenance system 0001:000000
-    intelligent maintenance systems 0001:000000
-integrated logistic 0001:000000
-    integrated logistics 0001:000000
-information architecture 0001:000000
-    information architectures 0001:000000
-industrial transformation 0001:000000
-    industrial transformations 0001:000000
-import tariff 0001:000000
-    import tariffs 0001:000000
-hypersonic weapon 0001:000000
-    hypersonic weapons 0001:000000
-hydrogen fuel cell 0001:000000
-    hydrogen fuel cells 0001:000000
-human science 0001:000000
-    human sciences 0001:000000
-hookworm infection 0001:000000
-    hookworm infections 0001:000000
-highway slope 0001:000000
-    highway slopes 0001:000000
-higher education institution 0001:000000
-    higher education institutions 0001:000000
-high-technology enterprise 0001:000000
-    high-technology enterprises 0001:000000
-health behavior norm 0001:000000
-    health behavior norms 0001:000000
-health behavior 0001:000000
-    health behaviors 0001:000000
-green experiment teaching 0001:000000
-    green experimental teaching 0001:000000
-green experiment 0001:000000
-    green experiments 0001:000000
-graduate student 0001:000000
-    graduate students 0001:000000
-geological hazard 0001:000000
-    geological hazards 0001:000000
-gasoline engine 0001:000000
-    gasoline engines 0001:000000
-fuzzy cognitive map 0001:000000
-    fuzzy cognitive maps 0001:000000
-fukushima accident 0001:000000
-    fukushima accidents 0001:000000
-fresh fruit 0001:000000
-    fresh fruits 0001:000000
-flat glass enterprise 0001:000000
-    flat glass enterprises 0001:000000
-feedback circuit 0001:000000
-    feedback circuits 0001:000000
-external driving mechanism 0001:000000
-    external driving mechanisms 0001:000000
-external cause 0001:000000
-    external causes 0001:000000
-experiment teachings 0001:000000
-    experimental teachings 0001:000000
-engineering materials 0001:000000
-    engineering material cost 0001:000000
-electric vehicles integration 0001:000000
-    electric vehicle grid integration 0001:000000
-educational resource 0001:000000
-    educational resources 0001:000000
-education process 0001:000000
-    educational process 0001:000000
-education policymaking 0001:000000
-    educational policymaking 0001:000000
-dynamic condition 0001:000000
-    dynamic conditions 0001:000000
-dual carbon target 0001:000000
-    dual carbon targets 0001:000000
+    smart library services 0001:000000
+land cover 0001:000000
+    land use and land cover 0001:000000
+hand house 0001:000000
+    hand housing 0001:000000
+enterprise technology 0001:000000
+    technology enterprise 0001:000000
+dynamic network model 0001:000000
+    dynamic network modeling 0001:000000
 domestic water demand 0001:000000
     domestic use water demand 0001:000000
-digital marketing intervention 0001:000000
-    digital marketing interventions 0001:000000
-diesel engine 0001:000000
-    diesel engines 0001:000000
-designer behavior 0001:000000
-    designer behaviors 0001:000000
-decoupling point 0001:000000
-    decoupling points 0001:000000
-decision analysis tool 0001:000000
-    decision analysis tools 0001:000000
-customer service level 0001:000000
-    customer service levels 0001:000000
-cultural science and technology innovation 0001:000000
-    cultural science and technology fusion innovation 0001:000000
-cultural enterprise 0001:000000
-    cultural enterprises 0001:000000
-crisis behavior 0001:000000
-    crisis behaviors 0001:000000
-coolant injection 0001:000000
-    coolant injections 0001:000000
-contextual behavioral science 0001:000000
-    contextual behavioural science 0001:000000
-contaminated surface water 0001:000000
-    contaminated surface waters 0001:000000
-computational model 0001:000000
-    computational models 0001:000000
-combination assessment method 0001:000000
-    combination assessment methods 0001:000000
-collapse geological hazard 0001:000000
-    collapse geological hazards 0001:000000
-coastal ecosystem 0001:000000
-    coastal ecosystems 0001:000000
-cloud computing alliance 0001:000000
-    cloud computing alliances 0001:000000
-clinical service 0001:000000
-    clinical services 0001:000000
-chemical accident 0001:000000
-    chemical accidents 0001:000000
-casual graph 0001:000000
-    casual graphs 0001:000000
-carbon monoxide occurrence network 0001:000000
-    carbon monoxide occurrence network model 0001:000000
-carbon material 0001:000000
-    carbon materials 0001:000000
-carbon isotope 0001:000000
-    carbon isotopes 0001:000000
-batch service queuing system 0001:000000
-    batch service queuing systems 0001:000000
-aviation weather information and bandwidth requirement model 0001:000000
-    aviation weather information and bandwidth requirement model model 0001:000000
-aircraft carrier 0001:000000
-    aircraft carriers 0001:000000
-agricultural supply chain 0001:000000
-    agricultural supply chains 0001:000000
-agricultural science and technology resources 0001:000000
-    agricultural science and technology resources play 0001:000000
-african affiliate 0001:000000
-    african affiliates 0001:000000
+developed activities 0001:000000
+    development activities 0001:000000
+children special 0001:000000
+    children with special 0001:000000
+airline impressions 0001:000000
+    airline total impression 0001:000000
+agricultural region 0001:000000
+    regional agriculture 0001:000000
+adaptive plan 0001:000000
+    planning adaptation 0001:000000

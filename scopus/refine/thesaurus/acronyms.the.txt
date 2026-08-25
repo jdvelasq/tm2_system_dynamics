@@ -1,27 +1,19 @@
 acbz
 	airport based comprehensive bonded zone
-ad
-    axiomatic design
 adg
     average daily gain
 aers
     air exchange rates
 ahp
     analytic hierarchy process
-am
-    asset management
 amt
     advanced manufacturing technology
 ann
     artificial neural network
 anp
     analytic network process
-ant
-	atomic nanotechnology
 apcf
     air pollution charging fee
-app
-	available resources per person
 apsim
 	agricultural production systems simulator
 apt
@@ -58,8 +50,6 @@ blm
     biomass logistics model
 bmri
 	bank mandiri
-bn
-    bayesian network
 bod
     biochemical oxygen demand
 bpmn
@@ -78,8 +68,6 @@ capex
 	capital expenditures
 cbs
 	contextual behavioural science
-cc
-    customer concentration
 ccds
     coupling coordination degrees
 cdms
@@ -98,8 +86,6 @@ ces
 	constant elasticity of substitution
 cet
     carbon emission trading
-cf
-    capacity factor
 cfm
     conventional flooding method
 cft
@@ -114,10 +100,6 @@ chss
     community healthcare systems
 chws
     community health workers
-ci
-    corn industry
-cia
-	cross impact analysis
 cip
     collaborative innovation performance
 cld
@@ -148,16 +130,12 @@ cptbu
     consumer product trade business unit
 crm
     customer relationship management
-cs
-    customer satisfaction
 csn
     children special needs
 csp sdm
 	coordinated scenario planning with system dynamics modeling
 csr
     corporate social responsibilities
-cv
-    cyberbullying victims
 cvd
 	cardiovascular disease
 cw r f s
@@ -182,8 +160,6 @@ dmi
     dry matter intake
 dms
 	decision makers
-do
-    dissolved oxygen
 doe
     design of experiments
 dprsr
@@ -192,8 +168,6 @@ dpsir
     driver pressure state impact response
 drmsr
     distribution root mean square ratio
-ds
-    dynamic systems
 dsm
 	demand side management
 dsr
@@ -208,8 +182,6 @@ ec earth
 	european consortium earth
 eci
     energy consumption improvement
-ef
-    environmental flow
 ems mcis
 	emergency medical system for mass casualty incidents
 enipas
@@ -232,8 +204,6 @@ epr
     extended producer responsibility
 eps
 	electric power substitution
-er
-    electrification ratio
 eroi
     energy return on investment
 erp
@@ -258,8 +228,6 @@ ews
     emergency water supply
 ewum
     economical water use model
-fa
-	fly ash
 fao
     food and agriculture organization
 fcm
@@ -290,18 +258,12 @@ fuca
     faire un choix adequate
 fwpvs
 	four wheeled passenger vehicles
-ga
-    genetic algorithm
 gbe
     green building eco environment
-gc
-    green concrete
 gce
     green cooperation experiment
 gcms
     general circulation models
-gd
-    gelevard dam
 gdi
     gasoline direct injection
 gdm
@@ -326,8 +288,6 @@ gpd
     government promotion degree
 grd
 	growth rate of demand
-gt
-    green technology
 gui
     graphical user interface
 gva
@@ -348,8 +308,6 @@ hdi
     human development index
 hep
     human error probability
-hk
-    hong kong
 hok
 	hoshin kanri
 hpc
@@ -358,8 +316,6 @@ hqed
 	high quality economic development
 hra
     human reliability analysis
-hs
-    health system
 hsr
 	highspeed rail
 hsrpt
@@ -378,8 +334,6 @@ icu
     intensive care units
 iczm
     integrated coastal zone management
-ie
-    industrial estate
 ieq
     indoor environmental quality
 ifets
@@ -402,12 +356,10 @@ irr
 	internal rate of return
 ism
     interpretative structural modeling
-it
-    information technology
 itrs
 	ice thickness at the riverside
 itsm
-    it service management
+    information technology service management
 itss
     intelligent transportation systems
 ivtf
@@ -420,22 +372,16 @@ jit
 	just in time
 jmi
     jointly managed inventory
-js
-    jute sticks
 jsc
     jute stick charcoal
 kai
 	kaizen
-kan
-	kanban
 kboe
 	kilobarrels of oil equivalent
 kibs
 	knowledge intensive business services
 kifs
     key influence factors
-km
-    knowledge management
 kms
     knowledgeable manufacturing system
 kpd
@@ -460,8 +406,6 @@ lih
     low income housing
 liihep
 	logistics information inconsistency due to human errors probability
-lm
-    lean manufacturing
 lmdi
     logarithmic mean divisia index
 lmt
@@ -472,8 +416,6 @@ loc
     limiting conditions for operations
 lulc
     land use and land cover
-lv
-	lotka volterra
 mape
     mean absolute percentage error
 marb
@@ -488,8 +430,6 @@ mci
     mass casualty incident
 mcm
     million cubic meters
-me
-    manufacturing enterprise
 mes
     manufacturing enterprises
 mfdt
@@ -512,8 +452,6 @@ mop
 	multiobjective programming
 mpi esm
 	max planck institute earth system model
-mq
-    mold quality
 mro
 	maintenance repair and operation
 mrr
@@ -524,8 +462,6 @@ msw
     municipal solid waste
 mwt
     mega water transfer
-na
-    natural aggregate
 nbs
     national bureau of statistics
 ncc
@@ -572,14 +508,10 @@ nse
 	nash sutcliffe efficiency
 nsps
     national security personnel system
-nt
-	nanotechnology
 ntu
     nanyang technological university
 nwl
     normal water level
-nz
-    new zealand
 nzcs
     new zealand customs service
 o2o
@@ -592,24 +524,16 @@ oics
     open innovation communities
 ome
     open modeling environment
-oo
-	object oriented
 ooda
 	observe orient decide act
 opex
 	operational expenditures
 opoe
 	online public opinion during emergencies
-p bfp
-	preferable brownfield process
-p s r
-	pressure state response
 paf
 	prevention appraisal failure
 parsim
 	pilot production absorption retention simulation
-pb
-    prefabricated buildings
 pbd
 	point based design
 pbip
@@ -628,12 +552,8 @@ php
     prefabrication housing production
 ple
     personal learning edition
-pm
-    particulate matter
 podium
 	policy dialog model
-pop
-    persistent organic pollutant
 pops
     persistent organic pollutants
 poq
@@ -644,8 +564,6 @@ ppp
     public private partnership
 ppr
 	peste des petits ruminants
-pq
-    prefab quality
 psm
     participatory systems mapping
 pso
@@ -678,8 +596,6 @@ rescom
 	resource conservative manufacturing
 rh
     relative humidity
-rms
-    reconfigurable manufacturing system
 rmse
     root mean square error
 roi
@@ -716,8 +632,6 @@ sci
     standard component index
 scm
     supply chain management
-sd bf
-	system dynamic based framework
 sdi
     subsurface drip irrigation
 sdm
@@ -730,8 +644,6 @@ sdsm
 	statistical downscaling model
 sdw
     system dynamics watershed
-se
-    standard error
 sec
     stormwater escape channel
 ses
@@ -746,12 +658,8 @@ sfm
     social fabric matrix
 sfs
 	settlements farming system
-si
-    sustainability index
 sir
 	susceptible infected recovered
-sm
-    simulation modeling
 smes
 	small and medium enterprises
 sncsd
@@ -772,8 +680,6 @@ sreqom
 	reliability engineering quality and operations management
 srns
     small ruminant nutrition system
-ss
-    sustainable sites
 ssd
     spatial system dynamics
 ssdm
@@ -804,10 +710,6 @@ tii
     transportation infrastructure investment
 tis
     technological innovation system
-tl
-    transmission losses
-tm
-    trommel mercury
 tms
     talent management strategy
 toe
@@ -830,16 +732,12 @@ ttp
     technology transfer policy
 twrs
     tank waste remediation system
-ue
-    unplanned extubation
 uhs
     ultimate heat sink
 uls
     underground logistic system
 uml
     unified modeling language
-un sdgs
-	sdg
 unccd
 	united nations convention to combat desertification
 urt
@@ -850,8 +748,6 @@ uur
     urban underground resources
 uvc
     unit variable cost
-uw
-	university of waterloo
 uwwr
 	urban wastewater recycling
 vfm
